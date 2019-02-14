@@ -1,0 +1,652 @@
+2019-02-13 15:17:29,990 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:17:29,990 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:17:29,990 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:17:29,991 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:17:29,991 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:17:32,800 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:17:32,800 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:17:32,800 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:17:32,801 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:17:32,801 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:17:40,159 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:17:40,160 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:17:40,160 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:17:40,160 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:17:40,160 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:17:43,383 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:17:43,383 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:17:43,384 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:17:43,384 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:17:43,384 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:18:02,719 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:18:02,719 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:18:02,720 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:18:02,720 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:18:02,720 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:18:04,775 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:18:04,776 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:18:04,776 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:18:04,776 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:18:04,776 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:18:05,048 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:18:05,048 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:18:05,048 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:18:05,048 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:18:05,049 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:18:08,342 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:18:08,343 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:18:08,343 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:18:08,343 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:18:08,343 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:18:09,696 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:18:09,696 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:18:09,696 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:18:09,696 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:18:09,697 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:18:14,544 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:18:14,544 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:18:14,544 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:18:14,545 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:18:14,545 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:18:56,821 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:18:56,821 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:18:56,821 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:18:56,821 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:18:56,822 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:18:56,894 parso.cache     DEBUG    MainProcess[702]_load_from_file_system: pickle loaded: /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/flask_mongoalchemy/__init__.py
+2019-02-13 15:19:09,237 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:19:09,237 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:19:09,237 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:19:09,238 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:19:09,238 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:19:14,444 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:19:14,445 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:19:14,445 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:19:14,445 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:19:14,445 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:19:16,077 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:19:16,077 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:19:16,077 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:19:16,077 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:19:16,078 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:19:35,736 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:19:35,736 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:19:35,736 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:19:35,736 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:19:35,737 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:19:40,895 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:19:40,895 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:19:40,895 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:19:40,896 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:19:40,896 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:19:42,487 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:19:42,488 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:19:42,488 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:19:42,488 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:19:42,488 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:20:25,481 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:20:25,481 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:20:25,481 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:20:25,482 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:20:25,482 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:20:25,534 parso.cache     DEBUG    MainProcess[702]_load_from_file_system: pickle loaded: /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/mongoalchemy/query.py
+2019-02-13 15:20:25,799 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:20:25,800 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:20:25,800 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:20:25,800 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:20:25,800 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:22:56,771 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:22:56,772 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:22:56,772 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:22:56,772 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:22:56,772 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:23:07,188 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:23:07,188 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:23:07,188 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:23:07,188 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:23:07,189 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:23:10,635 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:23:10,636 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:23:10,636 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:23:10,636 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:23:10,636 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:23:12,996 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:23:12,996 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:23:12,996 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:23:12,998 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:23:12,998 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:23:44,228 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:23:44,228 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:23:44,228 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:23:44,229 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:23:44,229 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:23:44,288 parso.cache     DEBUG    MainProcess[702]_load_from_file_system: pickle loaded: /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/mongoalchemy/document.py
+2019-02-13 15:23:45,748 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:23:45,748 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:23:45,749 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:23:45,749 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:23:45,749 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:23:54,172 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:23:54,172 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:23:54,172 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:23:54,173 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:23:54,173 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:24:07,377 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:24:07,377 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:24:07,378 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:24:07,378 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:24:07,378 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:24:09,618 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:24:09,618 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:24:09,619 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:24:09,619 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:24:09,620 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:24:11,410 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:24:11,410 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:24:11,410 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:24:11,411 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:24:11,411 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:24:25,994 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:24:25,994 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:24:25,995 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:24:25,995 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:24:25,995 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:24:27,402 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:24:27,403 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:24:27,403 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:24:27,403 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:24:27,403 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:24:31,162 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:24:31,162 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:24:31,162 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:24:31,163 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:24:31,163 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:25:15,896 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:25:15,896 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:25:15,896 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:25:15,896 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:25:15,897 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:25:22,944 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:25:22,944 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:25:22,944 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:25:22,944 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:25:22,945 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:25:24,704 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:25:24,704 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:25:24,704 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:25:24,705 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:25:24,705 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:25:29,896 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:25:29,896 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:25:29,896 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:25:29,897 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:25:29,897 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:25:31,886 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:25:31,887 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:25:31,887 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:25:31,887 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:25:31,887 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:25:33,464 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:25:33,464 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:25:33,464 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:25:33,465 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:25:33,465 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:25:36,512 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:25:36,512 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:25:36,512 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:25:36,512 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:25:36,512 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:25:40,120 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:25:40,120 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:25:40,120 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:25:40,120 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:25:40,121 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:25:42,110 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:25:42,111 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:25:42,111 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:25:42,111 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:25:42,111 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:25:46,656 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:25:46,656 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:25:46,656 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:25:46,656 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:25:46,656 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:25:51,256 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:25:51,257 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:25:51,257 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:25:51,257 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:25:51,257 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:25:55,135 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:25:55,136 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:25:55,136 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:25:55,136 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:25:55,136 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:25:57,727 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:25:57,728 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:25:57,728 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:25:57,728 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:25:57,729 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:25:59,240 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:25:59,240 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:25:59,240 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:25:59,241 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:25:59,241 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:26:00,272 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:26:00,272 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:26:00,272 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:26:00,274 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:26:00,274 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:26:55,827 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:26:55,827 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:26:55,828 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:26:55,828 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:26:55,828 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:26:55,841 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:26:55,842 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 152; new: 151
+2019-02-13 15:26:55,842 parso.python.diff DEBUG    MainProcess[702]    update: -> code[equal] old[1:36] new[1:36]
+2019-02-13 15:26:55,842 parso.python.diff DEBUG    MainProcess[702]_copy_from_old_parser: copy old[2:87] new[1:34]
+2019-02-13 15:26:55,846 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 35 to 44 (to 44 in part parser)
+2019-02-13 15:26:55,846 parso.python.diff DEBUG    MainProcess[702]    update: -> code[delete] old[37:37] new[37:36]
+2019-02-13 15:26:55,847 parso.python.diff DEBUG    MainProcess[702]    update: -> code[equal] old[38:152] new[37:151]
+2019-02-13 15:26:55,847 parso.python.diff DEBUG    MainProcess[702]_copy_from_old_parser: copy old[47:87] new[45:86]
+2019-02-13 15:26:55,847 parso.python.diff DEBUG    MainProcess[702]_copy_from_old_parser: copy old[88:88] new[87:87]
+2019-02-13 15:26:55,850 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 88 to 151 (to 150 in part parser)
+2019-02-13 15:26:55,851 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:26:58,445 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:26:58,445 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:26:58,445 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:26:58,446 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:26:58,446 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:27:06,130 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:27:06,131 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:27:06,131 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:27:06,131 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:27:06,131 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:27:21,153 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:27:21,154 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:27:21,154 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:27:21,154 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:27:21,154 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:27:59,112 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:27:59,113 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:27:59,113 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:27:59,113 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:27:59,113 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:28:01,073 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:28:01,073 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:28:01,073 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:28:01,073 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:28:01,074 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:28:02,745 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:28:02,745 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:28:02,745 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:28:02,745 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:28:02,746 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:28:03,857 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:28:03,857 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:28:03,857 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:28:03,857 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:28:03,858 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:28:10,600 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:28:10,600 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:28:10,600 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:28:10,601 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:28:10,601 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:28:11,769 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:28:11,769 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:28:11,769 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:28:11,770 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:28:11,770 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:28:13,065 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:28:13,065 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:28:13,065 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:28:13,066 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:28:13,066 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:28:14,248 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:28:14,249 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:28:14,249 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:28:14,250 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:28:14,250 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:28:16,945 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:28:16,945 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:28:16,945 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:28:16,946 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:28:16,946 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:28:41,886 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:28:41,886 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:28:41,886 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:28:41,887 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:28:41,887 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:28:44,223 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:28:44,223 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:28:44,223 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:28:44,224 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:28:44,224 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:28:45,935 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:28:45,935 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:28:45,935 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:28:45,936 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:28:45,936 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:28:47,190 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:28:47,191 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:28:47,191 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:28:47,192 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:28:47,192 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:29:08,718 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:29:08,718 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:29:08,718 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:29:08,719 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:29:08,719 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:29:12,222 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:29:12,222 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:29:12,223 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:29:12,224 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:29:12,224 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:29:13,230 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:29:13,230 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:29:13,230 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:29:13,231 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:29:13,231 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:29:16,406 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:29:16,406 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:29:16,407 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:29:16,408 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:29:16,408 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:29:18,678 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:29:18,678 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:29:18,678 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:29:18,680 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:29:18,680 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:29:43,007 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:29:43,008 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:29:43,008 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:29:43,008 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:29:43,008 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:29:45,640 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:29:45,640 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:29:45,641 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:29:45,641 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:29:45,641 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:30:29,719 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:30:29,719 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:30:29,719 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:30:29,720 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:30:29,720 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:30:35,759 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:30:35,759 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:30:35,759 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:30:35,760 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:30:35,760 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:52:44,540 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:52:44,540 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:52:44,540 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:52:44,541 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:52:44,541 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:53:19,417 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:53:19,417 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:53:19,418 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:53:19,418 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:53:19,418 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:53:30,201 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:53:30,201 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:53:30,201 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:53:30,203 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:53:30,204 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:54:48,510 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:54:48,510 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:54:48,510 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:54:48,511 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:54:48,511 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:54:48,566 parso.cache     DEBUG    MainProcess[702]_load_from_file_system: pickle loaded: /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/mongoalchemy/__init__.py
+2019-02-13 15:54:48,571 parso.cache     DEBUG    MainProcess[702]_load_from_file_system: pickle loaded: /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/mongoalchemy/py3compat.py
+2019-02-13 15:54:49,478 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:54:49,478 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:54:49,478 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:54:49,479 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:54:49,479 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:55:24,665 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:55:24,666 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:55:24,666 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:55:24,666 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:55:24,666 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:55:27,881 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:55:27,881 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:55:27,881 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:55:27,882 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:55:27,882 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:55:29,745 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:55:29,747 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:55:29,747 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:55:29,747 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:55:29,748 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:55:31,561 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:55:31,561 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:55:31,561 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:55:31,562 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:55:31,562 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:55:34,265 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:55:34,265 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:55:34,265 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:55:34,267 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:55:34,267 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:55:35,130 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:55:35,130 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:55:35,130 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:55:35,131 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:55:35,131 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:55:36,897 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:55:36,897 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:55:36,898 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:55:36,898 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:55:36,898 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:55:38,121 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:55:38,122 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:55:38,122 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:55:38,123 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:55:38,123 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:55:46,474 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:55:46,474 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:55:46,474 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:55:46,474 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:55:46,474 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 15:55:48,698 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 15:55:48,699 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 15:55:48,699 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 15:55:48,699 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 15:55:48,699 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 16:50:28,877 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 16:50:28,877 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 16:50:28,877 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 16:50:28,877 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 16:50:28,878 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 16:50:42,748 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 16:50:42,749 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 16:50:42,749 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 16:50:42,749 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 16:50:42,749 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 16:51:42,139 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 16:51:42,139 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 16:51:42,139 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 16:51:42,139 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 16:51:42,140 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 16:52:09,611 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 16:52:09,611 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 16:52:09,611 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 16:52:09,611 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 16:52:09,611 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 16:52:11,682 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 16:52:11,682 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 16:52:11,683 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 16:52:11,683 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 16:52:11,683 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 17:25:00,190 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 17:25:00,191 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 17:25:00,191 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 17:25:00,191 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 17:25:00,191 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 17:25:03,750 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 17:25:03,751 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 17:25:03,751 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 17:25:03,752 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 17:25:03,752 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 17:27:05,550 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 17:27:05,550 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 17:27:05,551 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 17:27:05,552 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 17:27:05,552 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 17:27:09,743 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 17:27:09,743 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 17:27:09,743 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 17:27:09,744 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 17:27:09,744 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 17:27:14,271 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 17:27:14,271 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 17:27:14,272 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 17:27:14,272 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 17:27:14,272 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 17:27:15,679 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 17:27:15,679 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 17:27:15,679 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 17:27:15,680 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 17:27:15,680 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 17:28:00,473 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 17:28:00,473 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 17:28:00,473 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 17:28:00,473 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 17:28:00,474 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:02:44,814 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:02:44,815 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:02:44,815 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:02:44,815 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:02:44,815 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:02:48,351 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:02:48,351 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:02:48,352 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:02:48,352 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:02:48,352 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:03:24,993 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:03:24,993 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:03:24,994 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:03:24,994 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:03:24,994 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:03:47,927 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:03:47,927 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:03:47,927 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:03:47,928 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:03:47,928 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:03:50,752 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:03:50,752 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:03:50,752 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:03:50,753 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:03:50,753 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:04:24,368 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:04:24,368 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:04:24,368 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:04:24,369 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:04:24,369 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:04:37,585 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:04:37,585 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:04:37,585 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:04:37,586 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:04:37,586 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:04:40,257 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:04:40,257 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:04:40,257 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:04:40,257 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:04:40,258 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:05:28,517 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:05:28,517 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:05:28,517 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:05:28,518 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:05:28,518 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:05:30,509 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:05:30,509 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:05:30,509 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:05:30,510 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:05:30,510 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:07:05,457 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:07:05,458 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:07:05,458 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:07:05,459 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:07:05,459 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:07:59,244 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:07:59,244 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:07:59,244 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:07:59,244 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:07:59,245 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:08:53,086 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:08:53,087 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:08:53,087 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:08:53,089 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:08:53,089 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:09:42,431 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:09:42,432 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:09:42,433 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:09:42,433 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:09:42,434 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:10:04,746 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:10:04,747 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:10:04,747 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:10:04,747 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:10:04,747 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:10:07,283 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:10:07,283 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:10:07,283 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:10:07,283 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:10:07,283 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:11:01,630 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:11:01,631 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:11:01,631 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:11:01,631 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:11:01,631 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:11:03,990 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:11:03,991 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:11:03,991 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:11:03,991 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:11:03,992 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:11:55,829 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:11:55,830 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:11:55,830 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:11:55,830 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:11:55,830 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:11:58,419 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:11:58,419 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:11:58,420 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:11:58,420 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:11:58,420 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:12:24,349 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:12:24,349 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:12:24,349 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:12:24,350 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:12:24,350 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:12:47,575 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:12:47,576 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:12:47,576 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:12:47,577 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:12:47,577 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:14:58,724 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:14:58,724 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:14:58,724 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:14:58,725 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:14:58,725 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:15:42,520 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:15:42,520 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:15:42,520 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:15:42,521 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:15:42,521 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:18:31,590 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:18:31,591 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:18:31,591 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:18:31,591 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:18:31,591 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:18:31,645 parso.cache     DEBUG    MainProcess[702]_load_from_file_system: pickle loaded: /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/mongoalchemy/session.py
+2019-02-13 18:18:49,737 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:18:49,737 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:18:49,737 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:18:49,738 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:18:49,738 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end
+2019-02-13 18:18:53,233 parso.python.diff DEBUG    MainProcess[702]    update: diff parser start
+2019-02-13 18:18:53,233 parso.python.diff DEBUG    MainProcess[702]    update: line_lengths old: 1; new: 1
+2019-02-13 18:18:53,233 parso.python.diff DEBUG    MainProcess[702]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-13 18:18:53,234 parso.python.diff DEBUG    MainProcess[702]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-13 18:18:53,234 parso.python.diff DEBUG    MainProcess[702]    update: diff parser end

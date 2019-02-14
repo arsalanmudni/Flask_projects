@@ -1,0 +1,977 @@
+2019-02-07 06:08:20,523 INFO werkzeug _internal  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-07 06:08:20,524 INFO werkzeug _internal  * Restarting with stat
+2019-02-07 06:08:20,803 WARNING werkzeug _internal  * Debugger is active!
+2019-02-07 06:08:20,803 INFO werkzeug _internal  * Debugger PIN: 188-833-675
+2019-02-07 06:08:44,684 INFO Hello hello Index page
+2019-02-07 06:08:44,685 INFO werkzeug _internal 127.0.0.1 - - [07/Feb/2019 06:08:44] "GET / HTTP/1.1" 200 -
+2019-02-07 06:09:04,905 INFO Hello hello Admin Page
+2019-02-07 06:09:04,905 WARNING Hello hello Get request in admin page
+2019-02-07 06:09:04,906 INFO werkzeug _internal 127.0.0.1 - - [07/Feb/2019 06:09:04] "GET /admin/ HTTP/1.1" 200 -
+2019-02-07 06:10:22,261 INFO werkzeug _internal  * Detected change in '/home/mudni/Python-learning/hello.py', reloading
+2019-02-07 06:10:22,308 INFO werkzeug _internal  * Restarting with stat
+2019-02-07 06:10:22,596 WARNING werkzeug _internal  * Debugger is active!
+2019-02-07 06:10:22,596 INFO werkzeug _internal  * Debugger PIN: 188-833-675
+2019-02-07 06:11:01,086 INFO werkzeug _internal  * Detected change in '/home/mudni/Python-learning/hello.py', reloading
+2019-02-07 06:11:01,122 INFO werkzeug _internal  * Restarting with stat
+2019-02-07 06:17:37,926 Hello           INFO     MainProcess[24528]admin_page: Admin Page
+2019-02-07 06:17:37,926 Hello           WARNING  MainProcess[24528]admin_page: Get request in admin page
+2019-02-07 06:17:37,927 werkzeug        INFO     MainProcess[24528]      _log: 127.0.0.1 - - [07/Feb/2019 06:17:37] "GET /admin/ HTTP/1.1" 200 -
+2019-02-07 06:18:36,113 Hello           INFO     MainProcess[24528]admin_page: Admin Page
+2019-02-07 06:18:36,113 Hello           WARNING  MainProcess[24528]admin_page: Post equest in admin page
+2019-02-07 06:18:36,113 werkzeug        INFO     MainProcess[24528]      _log: 127.0.0.1 - - [07/Feb/2019 06:18:36] "POST /admin/ HTTP/1.1" 200 -
+2019-02-07 07:11:49,055 werkzeug        INFO     MainProcess[24528]      _log:  * Detected change in '/home/mudni/Python-learning/hello.py', reloading
+2019-02-07 07:11:49,095 INFO werkzeug _internal  * Restarting with stat
+2019-02-07 09:47:11,561 Hello           INFO     MainProcess[1331] hello_app: Index page
+2019-02-07 09:47:11,562 werkzeug        INFO     MainProcess[1331]      _log: 127.0.0.1 - - [07/Feb/2019 09:47:11] "GET / HTTP/1.1" 200 -
+2019-02-07 09:47:15,475 werkzeug        INFO     MainProcess[1331]      _log: 127.0.0.1 - - [07/Feb/2019 09:47:15] "GET /hello HTTP/1.1" 301 -
+2019-02-07 09:47:15,481 Hello           INFO     MainProcess[1331] hello_app: Index page
+2019-02-07 09:47:15,481 werkzeug        INFO     MainProcess[1331]      _log: 127.0.0.1 - - [07/Feb/2019 09:47:15] "GET /hello/ HTTP/1.1" 200 -
+2019-02-07 09:47:56,780 Hello           INFO     MainProcess[1387] hello_app: Index page
+2019-02-07 09:47:56,781 werkzeug        INFO     MainProcess[1387]      _log: 127.0.0.1 - - [07/Feb/2019 09:47:56] "GET /hello/ HTTP/1.1" 200 -
+2019-02-07 09:47:57,530 Hello           INFO     MainProcess[1387] hello_app: Index page
+2019-02-07 09:47:57,531 werkzeug        INFO     MainProcess[1387]      _log: 127.0.0.1 - - [07/Feb/2019 09:47:57] "GET /hello/ HTTP/1.1" 200 -
+2019-02-07 09:47:58,104 Hello           INFO     MainProcess[1387] hello_app: Index page
+2019-02-07 09:47:58,105 werkzeug        INFO     MainProcess[1387]      _log: 127.0.0.1 - - [07/Feb/2019 09:47:58] "GET /hello/ HTTP/1.1" 200 -
+2019-02-07 09:47:58,337 Hello           INFO     MainProcess[1387] hello_app: Index page
+2019-02-07 09:47:58,337 werkzeug        INFO     MainProcess[1387]      _log: 127.0.0.1 - - [07/Feb/2019 09:47:58] "GET /hello/ HTTP/1.1" 200 -
+2019-02-07 09:47:58,567 Hello           INFO     MainProcess[1387] hello_app: Index page
+2019-02-07 09:47:58,569 werkzeug        INFO     MainProcess[1387]      _log: 127.0.0.1 - - [07/Feb/2019 09:47:58] "GET /hello/ HTTP/1.1" 200 -
+2019-02-07 09:47:58,713 Hello           INFO     MainProcess[1387] hello_app: Index page
+2019-02-07 09:47:58,714 werkzeug        INFO     MainProcess[1387]      _log: 127.0.0.1 - - [07/Feb/2019 09:47:58] "GET /hello/ HTTP/1.1" 200 -
+2019-02-07 09:48:36,438 Hello           INFO     MainProcess[1387] hello_app: Index page
+2019-02-07 09:48:36,438 werkzeug        INFO     MainProcess[1387]      _log: 127.0.0.1 - - [07/Feb/2019 09:48:36] "GET /test/ HTTP/1.1" 200 -
+2019-02-07 10:22:06,612 werkzeug        INFO     MainProcess[2393]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-07 10:22:06,613 werkzeug        INFO     MainProcess[2393]      _log:  * Restarting with stat
+2019-02-07 10:22:06,850 werkzeug        WARNING  MainProcess[2395]      _log:  * Debugger is active!
+2019-02-07 10:22:06,850 werkzeug        INFO     MainProcess[2395]      _log:  * Debugger PIN: 282-612-990
+2019-02-07 10:22:20,059 Hello           INFO     MainProcess[2395] hello_app: Index page
+2019-02-07 10:22:20,060 werkzeug        INFO     MainProcess[2395]      _log: 127.0.0.1 - - [07/Feb/2019 10:22:20] "GET / HTTP/1.1" 200 -
+2019-02-07 10:22:26,143 Hello           INFO     MainProcess[2395] hello_app: Index page
+2019-02-07 10:22:26,144 werkzeug        INFO     MainProcess[2395]      _log: 127.0.0.1 - - [07/Feb/2019 10:22:26] "GET /hello/ HTTP/1.1" 200 -
+2019-02-11 05:53:38,359 werkzeug        INFO     MainProcess[26886]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-11 05:53:38,363 werkzeug        INFO     MainProcess[26886]      _log:  * Restarting with stat
+2019-02-11 05:53:38,612 werkzeug        WARNING  MainProcess[26888]      _log:  * Debugger is active!
+2019-02-11 05:53:38,710 werkzeug        INFO     MainProcess[26888]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 05:56:24,348 werkzeug        INFO     MainProcess[26980]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-11 05:56:24,349 werkzeug        INFO     MainProcess[26980]      _log:  * Restarting with stat
+2019-02-11 05:56:24,580 werkzeug        WARNING  MainProcess[26982]      _log:  * Debugger is active!
+2019-02-11 05:56:24,581 werkzeug        INFO     MainProcess[26982]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 05:57:35,631 werkzeug        INFO     MainProcess[26982]      _log:  * Detected change in '/home/mudni/Python-learning/hello.py', reloading
+2019-02-11 05:57:35,705 werkzeug        INFO     MainProcess[26980]      _log:  * Restarting with stat
+2019-02-11 05:57:35,962 werkzeug        WARNING  MainProcess[27010]      _log:  * Debugger is active!
+2019-02-11 05:57:35,963 werkzeug        INFO     MainProcess[27010]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 06:00:16,210 werkzeug        INFO     MainProcess[27010]      _log:  * Detected change in '/home/mudni/Python-learning/hello.py', reloading
+2019-02-11 06:00:16,294 werkzeug        INFO     MainProcess[26980]      _log:  * Restarting with stat
+2019-02-11 06:00:16,549 werkzeug        WARNING  MainProcess[27103]      _log:  * Debugger is active!
+2019-02-11 06:00:16,550 werkzeug        INFO     MainProcess[27103]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 06:09:30,123 werkzeug        INFO     MainProcess[27103]      _log:  * Detected change in '/home/mudni/Python-learning/hello.py', reloading
+2019-02-11 06:09:30,183 werkzeug        INFO     MainProcess[26980]      _log:  * Restarting with stat
+2019-02-11 06:09:30,448 werkzeug        WARNING  MainProcess[27206]      _log:  * Debugger is active!
+2019-02-11 06:09:30,449 werkzeug        INFO     MainProcess[27206]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 06:10:26,166 werkzeug        INFO     MainProcess[27206]      _log:  * Detected change in '/home/mudni/Python-learning/hello.py', reloading
+2019-02-11 06:10:26,231 werkzeug        INFO     MainProcess[26980]      _log:  * Restarting with stat
+2019-02-11 06:10:26,509 werkzeug        WARNING  MainProcess[27407]      _log:  * Debugger is active!
+2019-02-11 06:10:26,509 werkzeug        INFO     MainProcess[27407]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 06:16:20,383 werkzeug        INFO     MainProcess[27407]      _log:  * Detected change in '/home/mudni/Python-learning/models.py', reloading
+2019-02-11 06:16:20,466 werkzeug        INFO     MainProcess[26980]      _log:  * Restarting with stat
+2019-02-11 06:16:20,847 werkzeug        WARNING  MainProcess[27484]      _log:  * Debugger is active!
+2019-02-11 06:16:20,848 werkzeug        INFO     MainProcess[27484]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 06:18:16,725 werkzeug        INFO     MainProcess[27567]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-11 06:18:16,726 werkzeug        INFO     MainProcess[27567]      _log:  * Restarting with stat
+2019-02-11 06:18:16,961 werkzeug        WARNING  MainProcess[27569]      _log:  * Debugger is active!
+2019-02-11 06:18:16,961 werkzeug        INFO     MainProcess[27569]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 06:20:36,575 werkzeug        INFO     MainProcess[27633]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-11 06:20:36,576 werkzeug        INFO     MainProcess[27633]      _log:  * Restarting with stat
+2019-02-11 06:20:36,808 werkzeug        WARNING  MainProcess[27635]      _log:  * Debugger is active!
+2019-02-11 06:20:36,809 werkzeug        INFO     MainProcess[27635]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 06:20:47,781 Hello           INFO     MainProcess[27635] hello_app: Index page
+2019-02-11 06:20:47,848 werkzeug        INFO     MainProcess[27635]      _log: 127.0.0.1 - - [11/Feb/2019 06:20:47] "GET / HTTP/1.1" 500 -
+2019-02-11 06:20:47,912 werkzeug        INFO     MainProcess[27635]      _log: 127.0.0.1 - - [11/Feb/2019 06:20:47] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-02-11 06:20:47,914 werkzeug        INFO     MainProcess[27635]      _log: 127.0.0.1 - - [11/Feb/2019 06:20:47] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-02-11 06:20:47,925 werkzeug        INFO     MainProcess[27635]      _log: 127.0.0.1 - - [11/Feb/2019 06:20:47] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-02-11 06:20:48,024 werkzeug        INFO     MainProcess[27635]      _log: 127.0.0.1 - - [11/Feb/2019 06:20:48] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-02-11 06:21:16,438 werkzeug        INFO     MainProcess[27635]      _log:  * Detected change in '/home/mudni/Python-learning/hello.py', reloading
+2019-02-11 06:21:16,507 werkzeug        INFO     MainProcess[27633]      _log:  * Restarting with stat
+2019-02-11 06:21:16,754 werkzeug        WARNING  MainProcess[27670]      _log:  * Debugger is active!
+2019-02-11 06:21:16,754 werkzeug        INFO     MainProcess[27670]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 06:21:22,408 Hello           INFO     MainProcess[27670] hello_app: Index page
+2019-02-11 06:21:22,454 werkzeug        INFO     MainProcess[27670]      _log: 127.0.0.1 - - [11/Feb/2019 06:21:22] "GET / HTTP/1.1" 500 -
+2019-02-11 06:21:22,475 werkzeug        INFO     MainProcess[27670]      _log: 127.0.0.1 - - [11/Feb/2019 06:21:22] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-02-11 06:21:22,482 werkzeug        INFO     MainProcess[27670]      _log: 127.0.0.1 - - [11/Feb/2019 06:21:22] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-02-11 06:21:22,482 werkzeug        INFO     MainProcess[27670]      _log: 127.0.0.1 - - [11/Feb/2019 06:21:22] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-02-11 06:21:22,521 werkzeug        INFO     MainProcess[27670]      _log: 127.0.0.1 - - [11/Feb/2019 06:21:22] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-02-11 06:22:09,574 werkzeug        INFO     MainProcess[27670]      _log:  * Detected change in '/home/mudni/Python-learning/hello.py', reloading
+2019-02-11 06:22:09,646 werkzeug        INFO     MainProcess[27633]      _log:  * Restarting with stat
+2019-02-11 06:22:09,892 werkzeug        WARNING  MainProcess[27701]      _log:  * Debugger is active!
+2019-02-11 06:22:09,893 werkzeug        INFO     MainProcess[27701]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 06:22:14,781 Hello           INFO     MainProcess[27701] hello_app: Index page
+2019-02-11 06:22:14,820 werkzeug        INFO     MainProcess[27701]      _log: 127.0.0.1 - - [11/Feb/2019 06:22:14] "GET / HTTP/1.1" 200 -
+2019-02-11 06:22:14,916 werkzeug        INFO     MainProcess[27701]      _log: 127.0.0.1 - - [11/Feb/2019 06:22:14] "GET /favicon.ico HTTP/1.1" 301 -
+2019-02-11 06:22:55,563 werkzeug        INFO     MainProcess[27701]      _log:  * Detected change in '/home/mudni/Python-learning/hello.py', reloading
+2019-02-11 06:22:55,644 werkzeug        INFO     MainProcess[27633]      _log:  * Restarting with stat
+2019-02-11 06:22:55,904 werkzeug        WARNING  MainProcess[27720]      _log:  * Debugger is active!
+2019-02-11 06:22:55,904 werkzeug        INFO     MainProcess[27720]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 06:23:02,810 Hello           INFO     MainProcess[27720] hello_app: Index page
+2019-02-11 06:23:02,850 werkzeug        INFO     MainProcess[27720]      _log: 127.0.0.1 - - [11/Feb/2019 06:23:02] "GET / HTTP/1.1" 200 -
+2019-02-11 06:23:43,614 werkzeug        INFO     MainProcess[27720]      _log:  * Detected change in '/home/mudni/Python-learning/hello.py', reloading
+2019-02-11 06:23:43,687 werkzeug        INFO     MainProcess[27633]      _log:  * Restarting with stat
+2019-02-11 06:23:43,967 werkzeug        WARNING  MainProcess[27739]      _log:  * Debugger is active!
+2019-02-11 06:23:43,967 werkzeug        INFO     MainProcess[27739]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 06:23:47,923 Hello           INFO     MainProcess[27739] hello_app: Index page
+2019-02-11 06:23:47,956 werkzeug        INFO     MainProcess[27739]      _log: 127.0.0.1 - - [11/Feb/2019 06:23:47] "GET / HTTP/1.1" 200 -
+2019-02-11 06:24:45,809 werkzeug        INFO     MainProcess[27739]      _log:  * Detected change in '/home/mudni/Python-learning/hello.py', reloading
+2019-02-11 06:24:45,885 werkzeug        INFO     MainProcess[27633]      _log:  * Restarting with stat
+2019-02-11 06:24:46,126 werkzeug        WARNING  MainProcess[27771]      _log:  * Debugger is active!
+2019-02-11 06:24:46,126 werkzeug        INFO     MainProcess[27771]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 06:24:50,423 Hello           INFO     MainProcess[27771] hello_app: Index page
+2019-02-11 06:24:50,469 werkzeug        INFO     MainProcess[27771]      _log: 127.0.0.1 - - [11/Feb/2019 06:24:50] "GET / HTTP/1.1" 200 -
+2019-02-11 06:25:18,248 werkzeug        INFO     MainProcess[27771]      _log: 127.0.0.1 - - [11/Feb/2019 06:25:18] "GET /blog1 HTTP/1.1" 301 -
+2019-02-11 06:25:18,251 Hello           INFO     MainProcess[27771] hello_app: Index page
+2019-02-11 06:25:18,255 werkzeug        INFO     MainProcess[27771]      _log: 127.0.0.1 - - [11/Feb/2019 06:25:18] "GET /blog1/ HTTP/1.1" 200 -
+2019-02-11 06:41:58,984 parso.python.diff DEBUG    MainProcess[28951]    update: diff parser start
+2019-02-11 06:41:58,985 parso.python.diff DEBUG    MainProcess[28951]    update: line_lengths old: 1; new: 1
+2019-02-11 06:41:58,985 parso.python.diff DEBUG    MainProcess[28951]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-11 06:41:58,987 parso.python.diff DEBUG    MainProcess[28951]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-11 06:41:58,987 parso.python.diff DEBUG    MainProcess[28951]    update: diff parser end
+2019-02-11 06:42:01,977 parso.python.diff DEBUG    MainProcess[28951]    update: diff parser start
+2019-02-11 06:42:01,978 parso.python.diff DEBUG    MainProcess[28951]    update: line_lengths old: 1; new: 1
+2019-02-11 06:42:01,978 parso.python.diff DEBUG    MainProcess[28951]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-11 06:42:01,978 parso.python.diff DEBUG    MainProcess[28951]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-11 06:42:01,978 parso.python.diff DEBUG    MainProcess[28951]    update: diff parser end
+2019-02-11 06:42:03,169 parso.python.diff DEBUG    MainProcess[28951]    update: diff parser start
+2019-02-11 06:42:03,169 parso.python.diff DEBUG    MainProcess[28951]    update: line_lengths old: 1; new: 1
+2019-02-11 06:42:03,169 parso.python.diff DEBUG    MainProcess[28951]    update: -> code[replace] old[1:1] new[1:1]
+2019-02-11 06:42:03,170 parso.python.diff DEBUG    MainProcess[28951]    _parse: parse_part from 1 to 1 (to 0 in part parser)
+2019-02-11 06:42:03,170 parso.python.diff DEBUG    MainProcess[28951]    update: diff parser end
+2019-02-11 07:19:00,973 werkzeug        INFO     MainProcess[5997]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-11 07:19:00,976 werkzeug        INFO     MainProcess[5997]      _log:  * Restarting with stat
+2019-02-11 07:19:01,242 werkzeug        WARNING  MainProcess[5999]      _log:  * Debugger is active!
+2019-02-11 07:19:01,254 werkzeug        INFO     MainProcess[5999]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 07:19:14,375 Hello           INFO     MainProcess[5999] hello_app: Index page
+2019-02-11 07:19:14,416 werkzeug        INFO     MainProcess[5999]      _log: 127.0.0.1 - - [11/Feb/2019 07:19:14] "GET /blog1/ HTTP/1.1" 200 -
+2019-02-11 07:32:31,933 werkzeug        INFO     MainProcess[5999]      _log:  * Detected change in '/home/mudni/Python_learning/flaskr/hello.py', reloading
+2019-02-11 07:32:32,014 werkzeug        INFO     MainProcess[5997]      _log:  * Restarting with stat
+2019-02-11 07:32:32,268 werkzeug        WARNING  MainProcess[9725]      _log:  * Debugger is active!
+2019-02-11 07:32:32,269 werkzeug        INFO     MainProcess[9725]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 07:34:14,563 werkzeug        INFO     MainProcess[9725]      _log:  * Detected change in '/home/mudni/Python_learning/flaskr/hello.py', reloading
+2019-02-11 07:34:14,635 werkzeug        INFO     MainProcess[5997]      _log:  * Restarting with stat
+2019-02-11 07:35:13,958 werkzeug        INFO     MainProcess[9790]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-11 07:35:13,958 werkzeug        INFO     MainProcess[9790]      _log:  * Restarting with stat
+2019-02-11 07:35:14,191 werkzeug        WARNING  MainProcess[9793]      _log:  * Debugger is active!
+2019-02-11 07:35:14,191 werkzeug        INFO     MainProcess[9793]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 07:35:30,858 werkzeug        INFO     MainProcess[9793]      _log: 127.0.0.1 - - [11/Feb/2019 07:35:30] "GET / HTTP/1.1" 200 -
+2019-02-11 07:37:45,004 werkzeug        INFO     MainProcess[9793]      _log:  * Detected change in '/home/mudni/Python_learning/flaskr/hello.py', reloading
+2019-02-11 07:37:45,083 werkzeug        INFO     MainProcess[9790]      _log:  * Restarting with stat
+2019-02-11 07:37:45,325 werkzeug        WARNING  MainProcess[9856]      _log:  * Debugger is active!
+2019-02-11 07:37:45,326 werkzeug        INFO     MainProcess[9856]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 07:37:51,428 werkzeug        INFO     MainProcess[9856]      _log: 127.0.0.1 - - [11/Feb/2019 07:37:51] "GET / HTTP/1.1" 404 -
+2019-02-11 07:38:00,186 werkzeug        INFO     MainProcess[9856]      _log: 127.0.0.1 - - [11/Feb/2019 07:38:00] "GET /arsalan HTTP/1.1" 404 -
+2019-02-11 07:39:04,354 werkzeug        INFO     MainProcess[9856]      _log:  * Detected change in '/home/mudni/Python_learning/flaskr/hello.py', reloading
+2019-02-11 07:39:04,411 werkzeug        INFO     MainProcess[9790]      _log:  * Restarting with stat
+2019-02-11 07:39:04,649 werkzeug        WARNING  MainProcess[9882]      _log:  * Debugger is active!
+2019-02-11 07:39:04,650 werkzeug        INFO     MainProcess[9882]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 07:39:07,754 werkzeug        INFO     MainProcess[9885]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-11 07:39:07,755 werkzeug        INFO     MainProcess[9885]      _log:  * Restarting with stat
+2019-02-11 07:39:07,996 werkzeug        WARNING  MainProcess[9887]      _log:  * Debugger is active!
+2019-02-11 07:39:07,996 werkzeug        INFO     MainProcess[9887]      _log:  * Debugger PIN: 282-612-990
+2019-02-11 07:39:14,019 werkzeug        INFO     MainProcess[9887]      _log: 127.0.0.1 - - [11/Feb/2019 07:39:14] "GET /arsalan HTTP/1.1" 200 -
+2019-02-11 07:39:19,104 werkzeug        INFO     MainProcess[9887]      _log: 127.0.0.1 - - [11/Feb/2019 07:39:19] "GET / HTTP/1.1" 404 -
+2019-02-12 12:34:04,138 werkzeug        INFO     MainProcess[576]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-12 12:34:04,143 werkzeug        INFO     MainProcess[576]      _log:  * Restarting with stat
+2019-02-12 12:34:04,766 werkzeug        WARNING  MainProcess[579]      _log:  * Debugger is active!
+2019-02-12 12:34:04,864 werkzeug        INFO     MainProcess[579]      _log:  * Debugger PIN: 189-131-962
+2019-02-12 12:54:57,196 werkzeug        INFO     MainProcess[638]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-12 12:54:57,197 werkzeug        INFO     MainProcess[638]      _log:  * Restarting with stat
+2019-02-12 12:54:57,735 werkzeug        WARNING  MainProcess[641]      _log:  * Debugger is active!
+2019-02-12 12:54:57,753 werkzeug        INFO     MainProcess[641]      _log:  * Debugger PIN: 189-131-962
+2019-02-12 12:55:37,842 werkzeug        INFO     MainProcess[641]      _log: 127.0.0.1 - - [12/Feb/2019 12:55:37] "GET / HTTP/1.1" 404 -
+2019-02-12 12:55:37,876 werkzeug        INFO     MainProcess[641]      _log: 127.0.0.1 - - [12/Feb/2019 12:55:37] "GET /favicon.ico HTTP/1.1" 200 -
+2019-02-12 12:56:01,131 werkzeug        INFO     MainProcess[641]      _log: 127.0.0.1 - - [12/Feb/2019 12:56:01] "GET / HTTP/1.1" 404 -
+2019-02-12 12:56:02,849 werkzeug        INFO     MainProcess[641]      _log: 127.0.0.1 - - [12/Feb/2019 12:56:02] "GET /abc HTTP/1.1" 200 -
+2019-02-12 12:56:02,885 werkzeug        INFO     MainProcess[641]      _log: 127.0.0.1 - - [12/Feb/2019 12:56:02] "GET /favicon.ico HTTP/1.1" 200 -
+2019-02-12 12:56:34,291 werkzeug        INFO     MainProcess[641]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-12 12:56:34,366 werkzeug        INFO     MainProcess[638]      _log:  * Restarting with stat
+2019-02-12 12:57:01,845 werkzeug        INFO     MainProcess[664]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-12 12:57:01,846 werkzeug        INFO     MainProcess[664]      _log:  * Restarting with stat
+2019-02-12 12:57:02,380 werkzeug        WARNING  MainProcess[667]      _log:  * Debugger is active!
+2019-02-12 12:57:02,398 werkzeug        INFO     MainProcess[667]      _log:  * Debugger PIN: 189-131-962
+2019-02-12 12:57:17,989 werkzeug        INFO     MainProcess[667]      _log: 127.0.0.1 - - [12/Feb/2019 12:57:17] "GET /abc HTTP/1.1" 200 -
+2019-02-12 12:57:24,772 werkzeug        INFO     MainProcess[667]      _log: 127.0.0.1 - - [12/Feb/2019 12:57:24] "GET /abc HTTP/1.1" 200 -
+2019-02-12 12:57:25,352 werkzeug        INFO     MainProcess[667]      _log: 127.0.0.1 - - [12/Feb/2019 12:57:25] "GET / HTTP/1.1" 404 -
+2019-02-12 12:57:25,826 werkzeug        INFO     MainProcess[667]      _log: 127.0.0.1 - - [12/Feb/2019 12:57:25] "GET /abc HTTP/1.1" 200 -
+2019-02-12 12:57:28,421 werkzeug        INFO     MainProcess[667]      _log: 127.0.0.1 - - [12/Feb/2019 12:57:28] "GET /arsalan HTTP/1.1" 200 -
+2019-02-12 12:57:28,443 werkzeug        INFO     MainProcess[667]      _log: 127.0.0.1 - - [12/Feb/2019 12:57:28] "GET /favicon.ico HTTP/1.1" 200 -
+2019-02-12 13:02:48,701 werkzeug        INFO     MainProcess[667]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-12 13:02:48,776 werkzeug        INFO     MainProcess[664]      _log:  * Restarting with stat
+2019-02-12 13:02:49,318 werkzeug        WARNING  MainProcess[679]      _log:  * Debugger is active!
+2019-02-12 13:02:49,339 werkzeug        INFO     MainProcess[679]      _log:  * Debugger PIN: 189-131-962
+2019-02-12 13:03:17,799 werkzeug        INFO     MainProcess[679]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-12 13:03:17,886 werkzeug        INFO     MainProcess[664]      _log:  * Restarting with stat
+2019-02-12 13:03:18,558 werkzeug        WARNING  MainProcess[686]      _log:  * Debugger is active!
+2019-02-12 13:03:18,576 werkzeug        INFO     MainProcess[686]      _log:  * Debugger PIN: 189-131-962
+2019-02-12 13:03:24,788 werkzeug        INFO     MainProcess[689]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-12 13:03:24,789 werkzeug        INFO     MainProcess[689]      _log:  * Restarting with stat
+2019-02-12 13:03:25,321 werkzeug        WARNING  MainProcess[692]      _log:  * Debugger is active!
+2019-02-12 13:03:25,339 werkzeug        INFO     MainProcess[692]      _log:  * Debugger PIN: 189-131-962
+2019-02-12 13:03:33,728 werkzeug        INFO     MainProcess[692]      _log: 127.0.0.1 - - [12/Feb/2019 13:03:33] "GET /arsalan HTTP/1.1" 200 -
+2019-02-12 13:03:37,890 werkzeug        INFO     MainProcess[692]      _log: 127.0.0.1 - - [12/Feb/2019 13:03:37] "GET /arsalan HTTP/1.1" 200 -
+2019-02-12 13:03:39,108 werkzeug        INFO     MainProcess[692]      _log: 127.0.0.1 - - [12/Feb/2019 13:03:39] "GET / HTTP/1.1" 200 -
+2019-02-12 13:03:39,959 werkzeug        INFO     MainProcess[692]      _log: 127.0.0.1 - - [12/Feb/2019 13:03:39] "GET / HTTP/1.1" 200 -
+2019-02-12 13:07:08,779 werkzeug        INFO     MainProcess[692]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-12 13:07:08,850 werkzeug        INFO     MainProcess[689]      _log:  * Restarting with stat
+2019-02-12 13:07:09,429 werkzeug        WARNING  MainProcess[703]      _log:  * Debugger is active!
+2019-02-12 13:07:09,446 werkzeug        INFO     MainProcess[703]      _log:  * Debugger PIN: 189-131-962
+2019-02-12 13:09:47,158 werkzeug        INFO     MainProcess[703]      _log: 127.0.0.1 - - [12/Feb/2019 13:09:47] "PUT /abc HTTP/1.1" 200 -
+2019-02-12 13:10:10,253 werkzeug        INFO     MainProcess[703]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-12 13:10:10,348 werkzeug        INFO     MainProcess[689]      _log:  * Restarting with stat
+2019-02-12 13:10:11,243 werkzeug        WARNING  MainProcess[726]      _log:  * Debugger is active!
+2019-02-12 13:10:11,261 werkzeug        INFO     MainProcess[726]      _log:  * Debugger PIN: 189-131-962
+2019-02-12 13:10:16,825 werkzeug        INFO     MainProcess[726]      _log: 127.0.0.1 - - [12/Feb/2019 13:10:16] "PUT /abc HTTP/1.1" 404 -
+2019-02-12 13:11:27,429 werkzeug        INFO     MainProcess[726]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-12 13:11:27,513 werkzeug        INFO     MainProcess[689]      _log:  * Restarting with stat
+2019-02-12 13:16:15,887 werkzeug        INFO     MainProcess[746]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-12 13:16:15,888 werkzeug        INFO     MainProcess[746]      _log:  * Restarting with stat
+2019-02-12 13:16:16,410 werkzeug        WARNING  MainProcess[749]      _log:  * Debugger is active!
+2019-02-12 13:16:16,426 werkzeug        INFO     MainProcess[749]      _log:  * Debugger PIN: 189-131-962
+2019-02-12 13:16:25,136 werkzeug        INFO     MainProcess[749]      _log: 127.0.0.1 - - [12/Feb/2019 13:16:25] "GET / HTTP/1.1" 404 -
+2019-02-12 13:17:05,191 werkzeug        INFO     MainProcess[749]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-12 13:17:05,279 werkzeug        INFO     MainProcess[746]      _log:  * Restarting with stat
+2019-02-12 13:17:05,810 werkzeug        WARNING  MainProcess[757]      _log:  * Debugger is active!
+2019-02-12 13:17:05,829 werkzeug        INFO     MainProcess[757]      _log:  * Debugger PIN: 189-131-962
+2019-02-12 13:17:14,890 werkzeug        INFO     MainProcess[757]      _log: 127.0.0.1 - - [12/Feb/2019 13:17:14] "GET / HTTP/1.1" 200 -
+2019-02-12 13:20:36,137 werkzeug        INFO     MainProcess[757]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-12 13:20:36,222 werkzeug        INFO     MainProcess[746]      _log:  * Restarting with stat
+2019-02-12 13:20:36,812 werkzeug        WARNING  MainProcess[799]      _log:  * Debugger is active!
+2019-02-12 13:20:36,830 werkzeug        INFO     MainProcess[799]      _log:  * Debugger PIN: 189-131-962
+2019-02-12 13:20:45,782 werkzeug        INFO     MainProcess[799]      _log: 127.0.0.1 - - [12/Feb/2019 13:20:45] "GET / HTTP/1.1" 200 -
+2019-02-12 13:20:48,639 werkzeug        INFO     MainProcess[799]      _log: 127.0.0.1 - - [12/Feb/2019 13:20:48] "GET /prof HTTP/1.1" 200 -
+2019-02-12 13:20:48,661 werkzeug        INFO     MainProcess[799]      _log: 127.0.0.1 - - [12/Feb/2019 13:20:48] "GET /favicon.ico HTTP/1.1" 200 -
+2019-02-12 13:20:55,524 werkzeug        INFO     MainProcess[799]      _log: 127.0.0.1 - - [12/Feb/2019 13:20:55] "GET /prof/ HTTP/1.1" 404 -
+2019-02-12 13:21:02,213 werkzeug        INFO     MainProcess[799]      _log: 127.0.0.1 - - [12/Feb/2019 13:21:02] "GET /prof/abc HTTP/1.1" 200 -
+2019-02-12 13:21:02,241 werkzeug        INFO     MainProcess[799]      _log: 127.0.0.1 - - [12/Feb/2019 13:21:02] "GET /favicon.ico HTTP/1.1" 200 -
+2019-02-12 14:27:44,959 werkzeug        INFO     MainProcess[799]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-12 14:27:45,045 werkzeug        INFO     MainProcess[746]      _log:  * Restarting with stat
+2019-02-12 14:27:45,620 werkzeug        WARNING  MainProcess[846]      _log:  * Debugger is active!
+2019-02-12 14:27:45,636 werkzeug        INFO     MainProcess[846]      _log:  * Debugger PIN: 189-131-962
+2019-02-12 14:36:10,306 werkzeug        INFO     MainProcess[846]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-12 14:36:10,378 werkzeug        INFO     MainProcess[746]      _log:  * Restarting with stat
+2019-02-12 14:36:10,906 werkzeug        WARNING  MainProcess[857]      _log:  * Debugger is active!
+2019-02-12 14:36:10,922 werkzeug        INFO     MainProcess[857]      _log:  * Debugger PIN: 189-131-962
+2019-02-12 14:36:26,187 werkzeug        INFO     MainProcess[857]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-12 14:36:26,273 werkzeug        INFO     MainProcess[746]      _log:  * Restarting with stat
+2019-02-13 12:12:04,775 werkzeug        INFO     MainProcess[992]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 12:12:04,814 werkzeug        INFO     MainProcess[992]      _log:  * Restarting with stat
+2019-02-13 12:12:05,242 werkzeug        WARNING  MainProcess[993]      _log:  * Debugger is active!
+2019-02-13 12:12:05,260 werkzeug        INFO     MainProcess[993]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:12:46,036 werkzeug        INFO     MainProcess[993]      _log: 127.0.0.1 - - [13/Feb/2019 12:12:46] "GET / HTTP/1.1" 500 -
+2019-02-13 12:12:46,066 werkzeug        INFO     MainProcess[993]      _log: 127.0.0.1 - - [13/Feb/2019 12:12:46] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-02-13 12:12:46,067 werkzeug        INFO     MainProcess[993]      _log: 127.0.0.1 - - [13/Feb/2019 12:12:46] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-02-13 12:12:46,067 werkzeug        INFO     MainProcess[993]      _log: 127.0.0.1 - - [13/Feb/2019 12:12:46] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-02-13 12:12:46,132 werkzeug        INFO     MainProcess[993]      _log: 127.0.0.1 - - [13/Feb/2019 12:12:46] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-02-13 12:12:46,177 werkzeug        INFO     MainProcess[993]      _log: 127.0.0.1 - - [13/Feb/2019 12:12:46] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-02-13 12:12:46,275 werkzeug        INFO     MainProcess[993]      _log: 127.0.0.1 - - [13/Feb/2019 12:12:46] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-02-13 12:13:06,131 werkzeug        INFO     MainProcess[993]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 12:13:06,186 werkzeug        INFO     MainProcess[992]      _log:  * Restarting with stat
+2019-02-13 12:13:06,614 werkzeug        WARNING  MainProcess[1006]      _log:  * Debugger is active!
+2019-02-13 12:13:06,630 werkzeug        INFO     MainProcess[1006]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:13:17,695 werkzeug        INFO     MainProcess[1009]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 12:13:17,697 werkzeug        INFO     MainProcess[1009]      _log:  * Restarting with stat
+2019-02-13 12:13:18,118 werkzeug        WARNING  MainProcess[1010]      _log:  * Debugger is active!
+2019-02-13 12:13:18,135 werkzeug        INFO     MainProcess[1010]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:13:24,084 werkzeug        INFO     MainProcess[1010]      _log: 127.0.0.1 - - [13/Feb/2019 12:13:24] "GET / HTTP/1.1" 200 -
+2019-02-13 12:13:24,115 werkzeug        INFO     MainProcess[1010]      _log: 127.0.0.1 - - [13/Feb/2019 12:13:24] "GET /favicon.ico HTTP/1.1" 404 -
+2019-02-13 12:13:36,837 werkzeug        INFO     MainProcess[1010]      _log: 127.0.0.1 - - [13/Feb/2019 12:13:36] "GET / HTTP/1.1" 200 -
+2019-02-13 12:13:39,465 werkzeug        INFO     MainProcess[1010]      _log: 127.0.0.1 - - [13/Feb/2019 12:13:39] "GET / HTTP/1.1" 200 -
+2019-02-13 12:13:45,181 werkzeug        INFO     MainProcess[1010]      _log: 127.0.0.1 - - [13/Feb/2019 12:13:45] "GET /?name=mudni HTTP/1.1" 200 -
+2019-02-13 12:13:45,207 werkzeug        INFO     MainProcess[1010]      _log: 127.0.0.1 - - [13/Feb/2019 12:13:45] "GET /favicon.ico HTTP/1.1" 404 -
+2019-02-13 12:13:54,246 werkzeug        INFO     MainProcess[1010]      _log: 127.0.0.1 - - [13/Feb/2019 12:13:54] "GET /?username=mudni HTTP/1.1" 200 -
+2019-02-13 12:13:54,267 werkzeug        INFO     MainProcess[1010]      _log: 127.0.0.1 - - [13/Feb/2019 12:13:54] "GET /favicon.ico HTTP/1.1" 404 -
+2019-02-13 12:14:38,270 werkzeug        INFO     MainProcess[1010]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 12:14:38,332 werkzeug        INFO     MainProcess[1009]      _log:  * Restarting with stat
+2019-02-13 12:14:38,743 werkzeug        WARNING  MainProcess[1018]      _log:  * Debugger is active!
+2019-02-13 12:14:38,759 werkzeug        INFO     MainProcess[1018]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:17:25,094 werkzeug        INFO     MainProcess[1018]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 12:17:25,151 werkzeug        INFO     MainProcess[1009]      _log:  * Restarting with stat
+2019-02-13 12:17:25,616 werkzeug        WARNING  MainProcess[1038]      _log:  * Debugger is active!
+2019-02-13 12:17:25,633 werkzeug        INFO     MainProcess[1038]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:18:37,662 werkzeug        INFO     MainProcess[1038]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 12:18:37,718 werkzeug        INFO     MainProcess[1009]      _log:  * Restarting with stat
+2019-02-13 12:18:38,152 werkzeug        WARNING  MainProcess[1059]      _log:  * Debugger is active!
+2019-02-13 12:18:38,173 werkzeug        INFO     MainProcess[1059]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:18:47,054 werkzeug        INFO     MainProcess[1059]      _log: 127.0.0.1 - - [13/Feb/2019 12:18:47] "GET /?username=mudni HTTP/1.1" 500 -
+2019-02-13 12:18:47,072 werkzeug        INFO     MainProcess[1059]      _log: 127.0.0.1 - - [13/Feb/2019 12:18:47] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-02-13 12:18:47,073 werkzeug        INFO     MainProcess[1059]      _log: 127.0.0.1 - - [13/Feb/2019 12:18:47] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-02-13 12:18:47,075 werkzeug        INFO     MainProcess[1059]      _log: 127.0.0.1 - - [13/Feb/2019 12:18:47] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-02-13 12:18:47,110 werkzeug        INFO     MainProcess[1059]      _log: 127.0.0.1 - - [13/Feb/2019 12:18:47] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-02-13 12:18:47,162 werkzeug        INFO     MainProcess[1059]      _log: 127.0.0.1 - - [13/Feb/2019 12:18:47] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-02-13 12:20:46,988 werkzeug        INFO     MainProcess[1059]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 12:20:47,043 werkzeug        INFO     MainProcess[1009]      _log:  * Restarting with stat
+2019-02-13 12:20:47,539 werkzeug        WARNING  MainProcess[1073]      _log:  * Debugger is active!
+2019-02-13 12:20:47,558 werkzeug        INFO     MainProcess[1073]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:20:54,666 werkzeug        INFO     MainProcess[1073]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 12:20:54,724 werkzeug        INFO     MainProcess[1009]      _log:  * Restarting with stat
+2019-02-13 12:20:55,157 werkzeug        WARNING  MainProcess[1077]      _log:  * Debugger is active!
+2019-02-13 12:20:55,177 werkzeug        INFO     MainProcess[1077]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:21:04,156 werkzeug        INFO     MainProcess[1080]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 12:21:04,157 werkzeug        INFO     MainProcess[1080]      _log:  * Restarting with stat
+2019-02-13 12:21:04,573 werkzeug        WARNING  MainProcess[1081]      _log:  * Debugger is active!
+2019-02-13 12:21:04,590 werkzeug        INFO     MainProcess[1081]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:21:09,351 werkzeug        INFO     MainProcess[1081]      _log: 127.0.0.1 - - [13/Feb/2019 12:21:09] "GET /?username=mudni HTTP/1.1" 500 -
+2019-02-13 12:21:09,385 werkzeug        INFO     MainProcess[1081]      _log: 127.0.0.1 - - [13/Feb/2019 12:21:09] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-02-13 12:21:09,386 werkzeug        INFO     MainProcess[1081]      _log: 127.0.0.1 - - [13/Feb/2019 12:21:09] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-02-13 12:21:09,386 werkzeug        INFO     MainProcess[1081]      _log: 127.0.0.1 - - [13/Feb/2019 12:21:09] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-02-13 12:21:09,414 werkzeug        INFO     MainProcess[1081]      _log: 127.0.0.1 - - [13/Feb/2019 12:21:09] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-02-13 12:21:09,471 werkzeug        INFO     MainProcess[1081]      _log: 127.0.0.1 - - [13/Feb/2019 12:21:09] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-02-13 12:22:18,632 werkzeug        INFO     MainProcess[1081]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 12:22:18,694 werkzeug        INFO     MainProcess[1080]      _log:  * Restarting with stat
+2019-02-13 12:22:19,154 werkzeug        WARNING  MainProcess[1105]      _log:  * Debugger is active!
+2019-02-13 12:22:19,175 werkzeug        INFO     MainProcess[1105]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:22:26,230 werkzeug        INFO     MainProcess[1108]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 12:22:26,231 werkzeug        INFO     MainProcess[1108]      _log:  * Restarting with stat
+2019-02-13 12:22:26,664 werkzeug        WARNING  MainProcess[1109]      _log:  * Debugger is active!
+2019-02-13 12:22:26,681 werkzeug        INFO     MainProcess[1109]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:22:30,171 werkzeug        INFO     MainProcess[1109]      _log: 127.0.0.1 - - [13/Feb/2019 12:22:30] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-02-13 12:22:30,172 werkzeug        INFO     MainProcess[1109]      _log: 127.0.0.1 - - [13/Feb/2019 12:22:30] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-02-13 12:22:30,174 werkzeug        INFO     MainProcess[1109]      _log: 127.0.0.1 - - [13/Feb/2019 12:22:30] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-02-13 12:22:30,177 werkzeug        INFO     MainProcess[1109]      _log: 127.0.0.1 - - [13/Feb/2019 12:22:30] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-02-13 12:22:30,177 werkzeug        INFO     MainProcess[1109]      _log: 127.0.0.1 - - [13/Feb/2019 12:22:30] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-02-13 12:22:30,194 werkzeug        INFO     MainProcess[1109]      _log: 127.0.0.1 - - [13/Feb/2019 12:22:30] "GET /?username=mudni HTTP/1.1" 500 -
+2019-02-13 12:23:01,196 werkzeug        INFO     MainProcess[1109]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 12:23:01,252 werkzeug        INFO     MainProcess[1108]      _log:  * Restarting with stat
+2019-02-13 12:23:01,706 werkzeug        WARNING  MainProcess[1117]      _log:  * Debugger is active!
+2019-02-13 12:23:01,725 werkzeug        INFO     MainProcess[1117]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:23:09,831 werkzeug        INFO     MainProcess[1120]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 12:23:09,832 werkzeug        INFO     MainProcess[1120]      _log:  * Restarting with stat
+2019-02-13 12:23:10,247 werkzeug        WARNING  MainProcess[1121]      _log:  * Debugger is active!
+2019-02-13 12:23:10,265 werkzeug        INFO     MainProcess[1121]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:23:13,636 werkzeug        INFO     MainProcess[1121]      _log: 127.0.0.1 - - [13/Feb/2019 12:23:13] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-02-13 12:23:13,637 werkzeug        INFO     MainProcess[1121]      _log: 127.0.0.1 - - [13/Feb/2019 12:23:13] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-02-13 12:23:13,639 werkzeug        INFO     MainProcess[1121]      _log: 127.0.0.1 - - [13/Feb/2019 12:23:13] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-02-13 12:23:13,641 werkzeug        INFO     MainProcess[1121]      _log: 127.0.0.1 - - [13/Feb/2019 12:23:13] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-02-13 12:23:13,642 werkzeug        INFO     MainProcess[1121]      _log: 127.0.0.1 - - [13/Feb/2019 12:23:13] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-02-13 12:23:13,664 werkzeug        INFO     MainProcess[1121]      _log: 127.0.0.1 - - [13/Feb/2019 12:23:13] "GET /?username=mudni HTTP/1.1" 500 -
+2019-02-13 12:27:01,538 werkzeug        INFO     MainProcess[1121]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 12:27:01,593 werkzeug        INFO     MainProcess[1120]      _log:  * Restarting with stat
+2019-02-13 12:27:02,057 werkzeug        WARNING  MainProcess[1155]      _log:  * Debugger is active!
+2019-02-13 12:27:02,075 werkzeug        INFO     MainProcess[1155]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:27:07,888 werkzeug        INFO     MainProcess[1158]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 12:27:07,889 werkzeug        INFO     MainProcess[1158]      _log:  * Restarting with stat
+2019-02-13 12:27:08,303 werkzeug        WARNING  MainProcess[1159]      _log:  * Debugger is active!
+2019-02-13 12:27:08,321 werkzeug        INFO     MainProcess[1159]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:27:12,444 werkzeug        INFO     MainProcess[1159]      _log: 127.0.0.1 - - [13/Feb/2019 12:27:12] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-02-13 12:27:12,447 werkzeug        INFO     MainProcess[1159]      _log: 127.0.0.1 - - [13/Feb/2019 12:27:12] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-02-13 12:27:12,450 werkzeug        INFO     MainProcess[1159]      _log: 127.0.0.1 - - [13/Feb/2019 12:27:12] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-02-13 12:27:12,452 werkzeug        INFO     MainProcess[1159]      _log: 127.0.0.1 - - [13/Feb/2019 12:27:12] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-02-13 12:27:12,453 werkzeug        INFO     MainProcess[1159]      _log: 127.0.0.1 - - [13/Feb/2019 12:27:12] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-02-13 12:27:12,469 werkzeug        INFO     MainProcess[1159]      _log: 127.0.0.1 - - [13/Feb/2019 12:27:12] "GET /?username=mudni HTTP/1.1" 500 -
+2019-02-13 12:29:35,394 werkzeug        INFO     MainProcess[1159]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 12:29:35,453 werkzeug        INFO     MainProcess[1158]      _log:  * Restarting with stat
+2019-02-13 12:31:23,573 werkzeug        INFO     MainProcess[1203]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 12:31:23,574 werkzeug        INFO     MainProcess[1203]      _log:  * Restarting with stat
+2019-02-13 12:31:23,990 werkzeug        WARNING  MainProcess[1204]      _log:  * Debugger is active!
+2019-02-13 12:31:24,007 werkzeug        INFO     MainProcess[1204]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:31:28,802 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:31:28] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-02-13 12:31:28,804 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:31:28] "GET /?username=mudni HTTP/1.1" 200 -
+2019-02-13 12:31:28,806 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:31:28] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-02-13 12:31:28,808 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:31:28] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-02-13 12:31:28,810 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:31:28] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-02-13 12:31:28,812 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:31:28] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-02-13 12:31:37,774 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:31:37] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-02-13 12:31:37,775 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:31:37] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-02-13 12:31:37,776 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:31:37] "GET /?username=mudni HTTP/1.1" 200 -
+2019-02-13 12:31:37,777 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:31:37] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-02-13 12:31:37,777 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:31:37] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-02-13 12:31:37,778 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:31:37] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-02-13 12:31:51,468 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:31:51] "GET /?contact=1234 HTTP/1.1" 200 -
+2019-02-13 12:31:51,501 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:31:51] "GET /favicon.ico HTTP/1.1" 404 -
+2019-02-13 12:31:58,916 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:31:58] "GET /?abc=1234 HTTP/1.1" 200 -
+2019-02-13 12:31:58,936 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:31:58] "GET /favicon.ico HTTP/1.1" 404 -
+2019-02-13 12:32:04,849 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:32:04] "GET /?abc=1234 HTTP/1.1" 200 -
+2019-02-13 12:32:21,386 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:32:21] "GET /?email=mudni@gmail.com HTTP/1.1" 200 -
+2019-02-13 12:32:21,407 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:32:21] "GET /favicon.ico HTTP/1.1" 404 -
+2019-02-13 12:32:29,565 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:32:29] "GET /?email=mudni@gmail.com&abc=123 HTTP/1.1" 200 -
+2019-02-13 12:32:29,584 werkzeug        INFO     MainProcess[1204]      _log: 127.0.0.1 - - [13/Feb/2019 12:32:29] "GET /favicon.ico HTTP/1.1" 404 -
+2019-02-13 12:36:06,000 werkzeug        INFO     MainProcess[1204]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 12:36:06,062 werkzeug        INFO     MainProcess[1203]      _log:  * Restarting with stat
+2019-02-13 12:42:39,100 werkzeug        INFO     MainProcess[1253]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 12:42:39,102 werkzeug        INFO     MainProcess[1253]      _log:  * Restarting with stat
+2019-02-13 12:42:39,508 werkzeug        WARNING  MainProcess[1254]      _log:  * Debugger is active!
+2019-02-13 12:42:39,525 werkzeug        INFO     MainProcess[1254]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:42:44,527 werkzeug        INFO     MainProcess[1254]      _log: 127.0.0.1 - - [13/Feb/2019 12:42:44] "GET /?email=mudni@gmail.com&abc=123 HTTP/1.1" 500 -
+2019-02-13 12:42:44,560 werkzeug        INFO     MainProcess[1254]      _log: 127.0.0.1 - - [13/Feb/2019 12:42:44] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-02-13 12:42:44,560 werkzeug        INFO     MainProcess[1254]      _log: 127.0.0.1 - - [13/Feb/2019 12:42:44] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-02-13 12:42:44,561 werkzeug        INFO     MainProcess[1254]      _log: 127.0.0.1 - - [13/Feb/2019 12:42:44] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-02-13 12:42:44,593 werkzeug        INFO     MainProcess[1254]      _log: 127.0.0.1 - - [13/Feb/2019 12:42:44] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-02-13 12:42:44,658 werkzeug        INFO     MainProcess[1254]      _log: 127.0.0.1 - - [13/Feb/2019 12:42:44] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-02-13 12:43:58,658 werkzeug        INFO     MainProcess[1254]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 12:43:58,719 werkzeug        INFO     MainProcess[1253]      _log:  * Restarting with stat
+2019-02-13 12:43:59,157 werkzeug        WARNING  MainProcess[1264]      _log:  * Debugger is active!
+2019-02-13 12:43:59,172 werkzeug        INFO     MainProcess[1264]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:44:50,914 werkzeug        INFO     MainProcess[1264]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 12:44:50,972 werkzeug        INFO     MainProcess[1253]      _log:  * Restarting with stat
+2019-02-13 12:44:51,406 werkzeug        WARNING  MainProcess[1281]      _log:  * Debugger is active!
+2019-02-13 12:44:51,424 werkzeug        INFO     MainProcess[1281]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:44:54,717 werkzeug        INFO     MainProcess[1284]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 12:44:54,719 werkzeug        INFO     MainProcess[1284]      _log:  * Restarting with stat
+2019-02-13 12:44:55,142 werkzeug        WARNING  MainProcess[1285]      _log:  * Debugger is active!
+2019-02-13 12:44:55,160 werkzeug        INFO     MainProcess[1285]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:45:06,024 werkzeug        INFO     MainProcess[1285]      _log: 127.0.0.1 - - [13/Feb/2019 12:45:06] "GET /?email=mudni@gmail.com&abc=123 HTTP/1.1" 500 -
+2019-02-13 12:45:06,054 werkzeug        INFO     MainProcess[1285]      _log: 127.0.0.1 - - [13/Feb/2019 12:45:06] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-02-13 12:45:06,060 werkzeug        INFO     MainProcess[1285]      _log: 127.0.0.1 - - [13/Feb/2019 12:45:06] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-02-13 12:45:06,060 werkzeug        INFO     MainProcess[1285]      _log: 127.0.0.1 - - [13/Feb/2019 12:45:06] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-02-13 12:45:06,091 werkzeug        INFO     MainProcess[1285]      _log: 127.0.0.1 - - [13/Feb/2019 12:45:06] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-02-13 12:45:06,149 werkzeug        INFO     MainProcess[1285]      _log: 127.0.0.1 - - [13/Feb/2019 12:45:06] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-02-13 12:47:33,727 werkzeug        INFO     MainProcess[1301]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 12:47:33,728 werkzeug        INFO     MainProcess[1301]      _log:  * Restarting with stat
+2019-02-13 12:47:34,138 werkzeug        WARNING  MainProcess[1302]      _log:  * Debugger is active!
+2019-02-13 12:47:34,155 werkzeug        INFO     MainProcess[1302]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:49:09,571 werkzeug        INFO     MainProcess[1302]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 12:49:09,625 werkzeug        INFO     MainProcess[1301]      _log:  * Restarting with stat
+2019-02-13 12:49:10,049 werkzeug        WARNING  MainProcess[1320]      _log:  * Debugger is active!
+2019-02-13 12:49:10,066 werkzeug        INFO     MainProcess[1320]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:49:23,668 Hello           ERROR    MainProcess[1320]process_req: Unable to process request error Bad value for field of type "username".  Reason: "Value is not an instance of <class 'str'> (got: BaseQuery)".
+2019-02-13 12:49:23,669 werkzeug        INFO     MainProcess[1320]      _log: 127.0.0.1 - - [13/Feb/2019 12:49:23] "GET /?email=mudni@gmail.com&abc=123 HTTP/1.1" 200 -
+2019-02-13 12:49:23,671 werkzeug        INFO     MainProcess[1320]      _log: 127.0.0.1 - - [13/Feb/2019 12:49:23] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-02-13 12:49:23,673 werkzeug        INFO     MainProcess[1320]      _log: 127.0.0.1 - - [13/Feb/2019 12:49:23] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-02-13 12:49:23,676 werkzeug        INFO     MainProcess[1320]      _log: 127.0.0.1 - - [13/Feb/2019 12:49:23] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-02-13 12:49:23,684 werkzeug        INFO     MainProcess[1320]      _log: 127.0.0.1 - - [13/Feb/2019 12:49:23] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-02-13 12:49:23,684 werkzeug        INFO     MainProcess[1320]      _log: 127.0.0.1 - - [13/Feb/2019 12:49:23] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-02-13 12:50:11,425 Hello           ERROR    MainProcess[1320]process_req: Unable to process request error Bad value for field of type "username".  Reason: "Value is not an instance of <class 'str'> (got: BaseQuery)".
+2019-02-13 12:50:11,426 werkzeug        INFO     MainProcess[1320]      _log: 127.0.0.1 - - [13/Feb/2019 12:50:11] "GET /?email=mudni@gmail.com&abc=123 HTTP/1.1" 200 -
+2019-02-13 12:52:24,885 Hello           ERROR    MainProcess[1320]process_req: Unable to process request error Bad value for field of type "username".  Reason: "Value is not an instance of <class 'str'> (got: BaseQuery)".
+2019-02-13 12:52:24,886 werkzeug        INFO     MainProcess[1320]      _log: 127.0.0.1 - - [13/Feb/2019 12:52:24] "GET /?email=mudni@gmail.com&abc=123 HTTP/1.1" 200 -
+2019-02-13 12:53:08,427 werkzeug        INFO     MainProcess[1320]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 12:53:08,481 werkzeug        INFO     MainProcess[1301]      _log:  * Restarting with stat
+2019-02-13 12:53:08,896 werkzeug        WARNING  MainProcess[1385]      _log:  * Debugger is active!
+2019-02-13 12:53:08,913 werkzeug        INFO     MainProcess[1385]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:53:41,894 Hello           INFO     MainProcess[1385]       get: Request arguments {'contact': None, 'email': 'mudni@gmail.com', 'username': None}
+2019-02-13 12:53:41,897 Hello           ERROR    MainProcess[1385]process_req: Unable to process request error Bad value for field of type "username".  Reason: "Value is not an instance of <class 'str'> (got: BaseQuery)".
+2019-02-13 12:53:41,898 werkzeug        INFO     MainProcess[1385]      _log: 127.0.0.1 - - [13/Feb/2019 12:53:41] "GET /?email=mudni@gmail.com&abc=123 HTTP/1.1" 200 -
+2019-02-13 12:55:19,759 werkzeug        INFO     MainProcess[1385]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 12:55:19,811 werkzeug        INFO     MainProcess[1301]      _log:  * Restarting with stat
+2019-02-13 12:55:20,245 werkzeug        WARNING  MainProcess[1408]      _log:  * Debugger is active!
+2019-02-13 12:55:20,262 werkzeug        INFO     MainProcess[1408]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 12:55:29,809 Hello           INFO     MainProcess[1408]       get: Request arguments {'contact': None, 'username': None, 'email': 'mudni@gmail.com'}
+2019-02-13 12:55:29,815 werkzeug        INFO     MainProcess[1408]      _log: 127.0.0.1 - - [13/Feb/2019 12:55:29] "GET /?email=mudni@gmail.com&abc=123 HTTP/1.1" 200 -
+2019-02-13 15:09:21,150 werkzeug        INFO     MainProcess[658]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 15:09:21,157 werkzeug        INFO     MainProcess[658]      _log:  * Restarting with stat
+2019-02-13 15:09:21,624 werkzeug        WARNING  MainProcess[662]      _log:  * Debugger is active!
+2019-02-13 15:09:21,713 werkzeug        INFO     MainProcess[662]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 15:09:29,261 Hello           INFO     MainProcess[662]       get: Request arguments {'contact': None, 'email': 'mudni@gmail.com', 'username': None}
+2019-02-13 15:09:29,278 werkzeug        INFO     MainProcess[662]      _log: 127.0.0.1 - - [13/Feb/2019 15:09:29] "GET /?email=mudni@gmail.com&abc=123 HTTP/1.1" 200 -
+2019-02-13 15:10:15,532 werkzeug        INFO     MainProcess[662]      _log: 127.0.0.1 - - [13/Feb/2019 15:10:15] "POST /?email=mudni@gmail.com&abc=123 HTTP/1.1" 200 -
+2019-02-13 15:10:39,215 werkzeug        INFO     MainProcess[662]      _log: 127.0.0.1 - - [13/Feb/2019 15:10:39] "POST /?email=mudni@gmail.com&username=123&contact=abcd HTTP/1.1" 200 -
+2019-02-13 15:11:07,869 werkzeug        INFO     MainProcess[662]      _log: 127.0.0.1 - - [13/Feb/2019 15:11:07] "POST /?email=mudni@gmail.com&username=mudni&contact=abcd HTTP/1.1" 200 -
+2019-02-13 15:11:16,363 werkzeug        INFO     MainProcess[662]      _log: 127.0.0.1 - - [13/Feb/2019 15:11:16] "POST /?email=mudni@gmail.com&username=mudni&contact=0331-4492264 HTTP/1.1" 200 -
+2019-02-13 15:11:52,860 werkzeug        INFO     MainProcess[662]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 15:11:52,951 werkzeug        INFO     MainProcess[658]      _log:  * Restarting with stat
+2019-02-13 15:11:53,367 werkzeug        WARNING  MainProcess[699]      _log:  * Debugger is active!
+2019-02-13 15:11:53,385 werkzeug        INFO     MainProcess[699]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 15:14:47,903 werkzeug        INFO     MainProcess[699]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 15:14:47,957 werkzeug        INFO     MainProcess[658]      _log:  * Restarting with stat
+2019-02-13 15:14:48,421 werkzeug        WARNING  MainProcess[749]      _log:  * Debugger is active!
+2019-02-13 15:14:48,441 werkzeug        INFO     MainProcess[749]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 15:16:16,686 werkzeug        INFO     MainProcess[749]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 15:16:16,756 werkzeug        INFO     MainProcess[658]      _log:  * Restarting with stat
+2019-02-13 15:16:17,181 werkzeug        WARNING  MainProcess[776]      _log:  * Debugger is active!
+2019-02-13 15:16:17,200 werkzeug        INFO     MainProcess[776]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 15:26:52,074 werkzeug        INFO     MainProcess[776]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 15:26:52,133 werkzeug        INFO     MainProcess[658]      _log:  * Restarting with stat
+2019-02-13 15:26:52,576 werkzeug        WARNING  MainProcess[950]      _log:  * Debugger is active!
+2019-02-13 15:26:52,594 werkzeug        INFO     MainProcess[950]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 15:33:01,788 werkzeug        INFO     MainProcess[950]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 15:33:01,842 werkzeug        INFO     MainProcess[658]      _log:  * Restarting with stat
+2019-02-13 15:33:02,280 werkzeug        WARNING  MainProcess[1052]      _log:  * Debugger is active!
+2019-02-13 15:33:02,296 werkzeug        INFO     MainProcess[1052]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 15:33:07,376 werkzeug        INFO     MainProcess[1052]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 15:33:07,430 werkzeug        INFO     MainProcess[658]      _log:  * Restarting with stat
+2019-02-13 15:33:07,852 werkzeug        WARNING  MainProcess[1057]      _log:  * Debugger is active!
+2019-02-13 15:33:07,869 werkzeug        INFO     MainProcess[1057]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 15:33:17,759 werkzeug        INFO     MainProcess[1057]      _log: 127.0.0.1 - - [13/Feb/2019 15:33:17] "POST /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 15:33:24,455 werkzeug        INFO     MainProcess[1057]      _log: 127.0.0.1 - - [13/Feb/2019 15:33:24] "POST /?email=mudni@gmail.com&username=mudni&contact=0331-4492266 HTTP/1.1" 200 -
+2019-02-13 15:33:42,420 Hello           INFO     MainProcess[1057]       get: Request arguments {'contact': None, 'email': 'mudni@gmail.com', 'username': 'mudni'}
+2019-02-13 15:33:42,424 werkzeug        INFO     MainProcess[1057]      _log: 127.0.0.1 - - [13/Feb/2019 15:33:42] "GET /?email=mudni@gmail.com&username=mudni HTTP/1.1" 200 -
+2019-02-13 15:44:12,634 werkzeug        INFO     MainProcess[1057]      _log: 127.0.0.1 - - [13/Feb/2019 15:44:12] "POST /?email=mudni@gmail.com&username=mudni HTTP/1.1" 200 -
+2019-02-13 15:44:31,692 werkzeug        INFO     MainProcess[1057]      _log: 127.0.0.1 - - [13/Feb/2019 15:44:31] "POST /?email=mudni@gmail.com&username=mudni&contact=0331-4492266 HTTP/1.1" 200 -
+2019-02-13 15:45:19,806 werkzeug        INFO     MainProcess[1057]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 15:45:19,895 werkzeug        INFO     MainProcess[658]      _log:  * Restarting with stat
+2019-02-13 15:45:20,544 werkzeug        WARNING  MainProcess[1136]      _log:  * Debugger is active!
+2019-02-13 15:45:20,566 werkzeug        INFO     MainProcess[1136]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 15:45:31,198 Hello           INFO     MainProcess[1136]       get: Request arguments {'username': 'mudni', 'contact': '0331-4492266', 'email': 'mudni@gmail.com'}
+2019-02-13 15:45:31,206 werkzeug        INFO     MainProcess[1136]      _log: 127.0.0.1 - - [13/Feb/2019 15:45:31] "DELETE /?email=mudni@gmail.com&username=mudni&contact=0331-4492266 HTTP/1.1" 200 -
+2019-02-13 15:48:43,489 werkzeug        INFO     MainProcess[1136]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 15:48:43,543 werkzeug        INFO     MainProcess[658]      _log:  * Restarting with stat
+2019-02-13 15:49:23,572 werkzeug        INFO     MainProcess[1165]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 15:49:23,573 werkzeug        INFO     MainProcess[1165]      _log:  * Restarting with stat
+2019-02-13 15:49:23,999 werkzeug        WARNING  MainProcess[1166]      _log:  * Debugger is active!
+2019-02-13 15:49:24,015 werkzeug        INFO     MainProcess[1166]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 15:49:32,840 Hello           INFO     MainProcess[1166]       get: Request arguments {'username': 'mudni', 'contact': '0331-4492266', 'email': 'mudni@gmail.com'}
+2019-02-13 15:49:32,848 werkzeug        INFO     MainProcess[1166]      _log: 127.0.0.1 - - [13/Feb/2019 15:49:32] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492266 HTTP/1.1" 200 -
+2019-02-13 15:49:40,346 Hello           INFO     MainProcess[1166]       get: Request arguments {'username': 'mudni', 'contact': None, 'email': 'mudni@gmail.com'}
+2019-02-13 15:49:40,351 werkzeug        INFO     MainProcess[1166]      _log: 127.0.0.1 - - [13/Feb/2019 15:49:40] "GET /?email=mudni@gmail.com&username=mudni HTTP/1.1" 200 -
+2019-02-13 15:51:14,648 werkzeug        INFO     MainProcess[1166]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 15:51:14,707 werkzeug        INFO     MainProcess[1165]      _log:  * Restarting with stat
+2019-02-13 15:51:15,172 werkzeug        WARNING  MainProcess[1198]      _log:  * Debugger is active!
+2019-02-13 15:51:15,188 werkzeug        INFO     MainProcess[1198]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 15:51:19,140 Hello           INFO     MainProcess[1198]       get: Request arguments {'username': 'mudni', 'contact': None, 'email': 'mudni@gmail.com'}
+2019-02-13 15:51:19,147 werkzeug        INFO     MainProcess[1198]      _log: 127.0.0.1 - - [13/Feb/2019 15:51:19] "GET /?email=mudni@gmail.com&username=mudni HTTP/1.1" 200 -
+2019-02-13 15:51:31,199 werkzeug        INFO     MainProcess[1198]      _log: 127.0.0.1 - - [13/Feb/2019 15:51:31] "GET / HTTP/1.1" 200 -
+2019-02-13 15:51:49,691 werkzeug        INFO     MainProcess[1198]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 15:51:49,753 werkzeug        INFO     MainProcess[1165]      _log:  * Restarting with stat
+2019-02-13 15:51:50,219 werkzeug        WARNING  MainProcess[1208]      _log:  * Debugger is active!
+2019-02-13 15:51:50,237 werkzeug        INFO     MainProcess[1208]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 15:52:27,784 werkzeug        INFO     MainProcess[1208]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 15:52:27,843 werkzeug        INFO     MainProcess[1165]      _log:  * Restarting with stat
+2019-02-13 15:52:28,349 werkzeug        WARNING  MainProcess[1221]      _log:  * Debugger is active!
+2019-02-13 15:52:28,370 werkzeug        INFO     MainProcess[1221]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 15:57:47,927 werkzeug        INFO     MainProcess[1221]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 15:57:47,985 werkzeug        INFO     MainProcess[1165]      _log:  * Restarting with stat
+2019-02-13 15:57:48,437 werkzeug        WARNING  MainProcess[1293]      _log:  * Debugger is active!
+2019-02-13 15:57:48,454 werkzeug        INFO     MainProcess[1293]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 16:00:28,762 werkzeug        INFO     MainProcess[1293]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 16:00:28,836 werkzeug        INFO     MainProcess[1165]      _log:  * Restarting with stat
+2019-02-13 16:00:29,347 werkzeug        WARNING  MainProcess[1343]      _log:  * Debugger is active!
+2019-02-13 16:00:29,364 werkzeug        INFO     MainProcess[1343]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 16:00:54,683 Hello           INFO     MainProcess[1343]       get: Request arguments {'email': 'mudni@gmail.com', 'username': 'mudni', 'contact': '0331-4492264'}
+2019-02-13 16:00:54,687 werkzeug        INFO     MainProcess[1343]      _log: 127.0.0.1 - - [13/Feb/2019 16:00:54] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492264 HTTP/1.1" 200 -
+2019-02-13 16:01:01,222 werkzeug        INFO     MainProcess[1343]      _log: 127.0.0.1 - - [13/Feb/2019 16:01:01] "DELETE /?email=mudni@gmail.com&username=mudni&contact=0331-4492264 HTTP/1.1" 200 -
+2019-02-13 16:01:07,740 Hello           INFO     MainProcess[1343]       get: Request arguments {'email': 'mudni@gmail.com', 'username': 'mudni', 'contact': '0331-4492264'}
+2019-02-13 16:01:07,744 werkzeug        INFO     MainProcess[1343]      _log: 127.0.0.1 - - [13/Feb/2019 16:01:07] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492264 HTTP/1.1" 200 -
+2019-02-13 16:02:03,696 werkzeug        INFO     MainProcess[1343]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 16:02:03,754 werkzeug        INFO     MainProcess[1165]      _log:  * Restarting with stat
+2019-02-13 16:02:04,183 werkzeug        WARNING  MainProcess[1358]      _log:  * Debugger is active!
+2019-02-13 16:02:04,201 werkzeug        INFO     MainProcess[1358]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 16:02:11,571 Hello           INFO     MainProcess[1358]       get: Request arguments {'email': 'mudni@gmail.com', 'username': 'mudni', 'contact': '0331-4492264'}
+2019-02-13 16:02:11,579 werkzeug        INFO     MainProcess[1358]      _log: 127.0.0.1 - - [13/Feb/2019 16:02:11] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492264 HTTP/1.1" 200 -
+2019-02-13 16:02:17,345 werkzeug        INFO     MainProcess[1358]      _log: 127.0.0.1 - - [13/Feb/2019 16:02:17] "DELETE /?email=mudni@gmail.com&username=mudni&contact=0331-4492264 HTTP/1.1" 500 -
+2019-02-13 16:03:07,113 werkzeug        INFO     MainProcess[1358]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 16:03:07,168 werkzeug        INFO     MainProcess[1165]      _log:  * Restarting with stat
+2019-02-13 16:03:07,650 werkzeug        WARNING  MainProcess[1372]      _log:  * Debugger is active!
+2019-02-13 16:03:07,669 werkzeug        INFO     MainProcess[1372]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 16:03:20,087 werkzeug        INFO     MainProcess[1377]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 16:03:20,088 werkzeug        INFO     MainProcess[1377]      _log:  * Restarting with stat
+2019-02-13 16:03:20,551 werkzeug        WARNING  MainProcess[1378]      _log:  * Debugger is active!
+2019-02-13 16:03:20,571 werkzeug        INFO     MainProcess[1378]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 16:03:27,315 Hello           INFO     MainProcess[1378]       get: Request arguments {'email': 'mudni@gmail.com', 'contact': '0331-4492264', 'username': 'mudni'}
+2019-02-13 16:03:27,323 werkzeug        INFO     MainProcess[1378]      _log: 127.0.0.1 - - [13/Feb/2019 16:03:27] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492264 HTTP/1.1" 200 -
+2019-02-13 16:03:32,176 werkzeug        INFO     MainProcess[1378]      _log: 127.0.0.1 - - [13/Feb/2019 16:03:32] "DELETE /?email=mudni@gmail.com&username=mudni&contact=0331-4492264 HTTP/1.1" 500 -
+2019-02-13 16:04:21,417 werkzeug        INFO     MainProcess[1378]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 16:04:21,470 werkzeug        INFO     MainProcess[1377]      _log:  * Restarting with stat
+2019-02-13 16:04:21,887 werkzeug        WARNING  MainProcess[1392]      _log:  * Debugger is active!
+2019-02-13 16:04:21,904 werkzeug        INFO     MainProcess[1392]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 16:04:39,392 Hello           INFO     MainProcess[1392]       get: Request arguments {'email': 'mudni@gmail.com', 'contact': '0331-4492264', 'username': 'mudni'}
+2019-02-13 16:04:39,397 werkzeug        INFO     MainProcess[1392]      _log: 127.0.0.1 - - [13/Feb/2019 16:04:39] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492264 HTTP/1.1" 200 -
+2019-02-13 16:04:50,035 werkzeug        INFO     MainProcess[1392]      _log: 127.0.0.1 - - [13/Feb/2019 16:04:50] "POST /?email=mudni@gmail.com&username=mudni&contact=0331-4492264 HTTP/1.1" 200 -
+2019-02-13 16:04:56,428 werkzeug        INFO     MainProcess[1392]      _log: 127.0.0.1 - - [13/Feb/2019 16:04:56] "DELETE /?email=mudni@gmail.com&username=mudni&contact=0331-4492264 HTTP/1.1" 200 -
+2019-02-13 16:05:01,326 werkzeug        INFO     MainProcess[1392]      _log: 127.0.0.1 - - [13/Feb/2019 16:05:01] "DELETE /?email=mudni@gmail.com&username=mudni&contact=0331-4492264 HTTP/1.1" 200 -
+2019-02-13 16:08:26,542 Hello           INFO     MainProcess[1392]       get: Request arguments {'email': 'mudni@gmail.com', 'contact': '0331-4492265', 'username': 'mudni'}
+2019-02-13 16:08:26,545 werkzeug        INFO     MainProcess[1392]      _log: 127.0.0.1 - - [13/Feb/2019 16:08:26] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 16:08:32,290 Hello           INFO     MainProcess[1392]       get: Request arguments {'email': 'mudni@gmail.com', 'contact': '0331-4492264', 'username': 'mudni'}
+2019-02-13 16:08:32,293 werkzeug        INFO     MainProcess[1392]      _log: 127.0.0.1 - - [13/Feb/2019 16:08:32] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492264 HTTP/1.1" 200 -
+2019-02-13 16:08:36,550 werkzeug        INFO     MainProcess[1392]      _log: 127.0.0.1 - - [13/Feb/2019 16:08:36] "POST /?email=mudni@gmail.com&username=mudni&contact=0331-4492264 HTTP/1.1" 200 -
+2019-02-13 16:08:41,873 werkzeug        INFO     MainProcess[1392]      _log: 127.0.0.1 - - [13/Feb/2019 16:08:41] "POST /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 16:08:46,393 werkzeug        INFO     MainProcess[1392]      _log: 127.0.0.1 - - [13/Feb/2019 16:08:46] "POST /?email=mudni@gmail.com&username=mudni&contact=0331-4492266 HTTP/1.1" 200 -
+2019-02-13 16:08:53,619 werkzeug        INFO     MainProcess[1392]      _log: 127.0.0.1 - - [13/Feb/2019 16:08:53] "DELETE /?email=mudni@gmail.com&username=mudni&contact=0331-4492266 HTTP/1.1" 200 -
+2019-02-13 16:08:58,922 Hello           INFO     MainProcess[1392]       get: Request arguments {'email': 'mudni@gmail.com', 'contact': '0331-4492266', 'username': 'mudni'}
+2019-02-13 16:08:58,925 werkzeug        INFO     MainProcess[1392]      _log: 127.0.0.1 - - [13/Feb/2019 16:08:58] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492266 HTTP/1.1" 200 -
+2019-02-13 16:09:02,328 Hello           INFO     MainProcess[1392]       get: Request arguments {'email': 'mudni@gmail.com', 'contact': '0331-4492264', 'username': 'mudni'}
+2019-02-13 16:09:02,332 werkzeug        INFO     MainProcess[1392]      _log: 127.0.0.1 - - [13/Feb/2019 16:09:02] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492264 HTTP/1.1" 200 -
+2019-02-13 16:09:07,072 Hello           INFO     MainProcess[1392]       get: Request arguments {'email': 'mudni@gmail.com', 'contact': '0331-4492265', 'username': 'mudni'}
+2019-02-13 16:09:07,077 werkzeug        INFO     MainProcess[1392]      _log: 127.0.0.1 - - [13/Feb/2019 16:09:07] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 16:09:15,232 werkzeug        INFO     MainProcess[1392]      _log: 127.0.0.1 - - [13/Feb/2019 16:09:15] "DELETE /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 16:09:22,836 Hello           INFO     MainProcess[1392]       get: Request arguments {'email': 'mudni@gmail.com', 'contact': '0331-4492265', 'username': 'mudni'}
+2019-02-13 16:09:22,839 werkzeug        INFO     MainProcess[1392]      _log: 127.0.0.1 - - [13/Feb/2019 16:09:22] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 16:09:25,965 werkzeug        INFO     MainProcess[1392]      _log: 127.0.0.1 - - [13/Feb/2019 16:09:25] "POST /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 16:28:08,255 werkzeug        INFO     MainProcess[1551]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 16:28:08,256 werkzeug        INFO     MainProcess[1551]      _log:  * Restarting with stat
+2019-02-13 16:28:08,716 werkzeug        WARNING  MainProcess[1552]      _log:  * Debugger is active!
+2019-02-13 16:28:08,734 werkzeug        INFO     MainProcess[1552]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 16:58:07,294 werkzeug        INFO     MainProcess[1552]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 16:58:07,376 werkzeug        INFO     MainProcess[1551]      _log:  * Restarting with stat
+2019-02-13 16:58:08,145 werkzeug        WARNING  MainProcess[1815]      _log:  * Debugger is active!
+2019-02-13 16:58:08,166 werkzeug        INFO     MainProcess[1815]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 17:02:12,701 werkzeug        INFO     MainProcess[1815]      _log: 127.0.0.1 - - [13/Feb/2019 17:02:12] "PUT /?email=mudni@gmail.com&username=mudni&contact=0331-4492265/ HTTP/1.1" 200 -
+2019-02-13 17:02:22,709 werkzeug        INFO     MainProcess[1815]      _log: 127.0.0.1 - - [13/Feb/2019 17:02:22] "PUT /?email=mudni@gmail.com&username=mudni&contact=0331-4492265/abc HTTP/1.1" 200 -
+2019-02-13 17:02:34,020 werkzeug        INFO     MainProcess[1815]      _log: 127.0.0.1 - - [13/Feb/2019 17:02:34] "PUT /abc/?email=mudni@gmail.com&username=mudni&contact=0331-4492265/ HTTP/1.1" 404 -
+2019-02-13 17:03:41,879 werkzeug        INFO     MainProcess[1815]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 17:03:41,936 werkzeug        INFO     MainProcess[1551]      _log:  * Restarting with stat
+2019-02-13 17:03:42,371 werkzeug        WARNING  MainProcess[1873]      _log:  * Debugger is active!
+2019-02-13 17:03:42,388 werkzeug        INFO     MainProcess[1873]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 17:05:58,290 werkzeug        INFO     MainProcess[1873]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 17:05:58,347 werkzeug        INFO     MainProcess[1551]      _log:  * Restarting with stat
+2019-02-13 17:05:58,776 werkzeug        WARNING  MainProcess[1898]      _log:  * Debugger is active!
+2019-02-13 17:05:58,794 werkzeug        INFO     MainProcess[1898]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 17:06:10,404 Hello           INFO     MainProcess[1898]       get: Request arguments {'email': 'mudni@gmail.com', 'contact': '0331-4492265/task', 'username': 'mudni'}
+2019-02-13 17:06:10,410 werkzeug        INFO     MainProcess[1898]      _log: 127.0.0.1 - - [13/Feb/2019 17:06:10] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265/task HTTP/1.1" 200 -
+2019-02-13 17:06:17,552 Hello           INFO     MainProcess[1898]       get: Request arguments {'email': 'mudni@gmail.com', 'contact': '0331-4492265/', 'username': 'mudni'}
+2019-02-13 17:06:17,555 werkzeug        INFO     MainProcess[1898]      _log: 127.0.0.1 - - [13/Feb/2019 17:06:17] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265/ HTTP/1.1" 200 -
+2019-02-13 17:06:33,298 werkzeug        INFO     MainProcess[1898]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 17:06:33,355 werkzeug        INFO     MainProcess[1551]      _log:  * Restarting with stat
+2019-02-13 17:06:33,794 werkzeug        WARNING  MainProcess[1905]      _log:  * Debugger is active!
+2019-02-13 17:06:33,810 werkzeug        INFO     MainProcess[1905]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 17:06:42,852 werkzeug        INFO     MainProcess[1905]      _log: 127.0.0.1 - - [13/Feb/2019 17:06:42] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265/ HTTP/1.1" 404 -
+2019-02-13 17:06:47,488 werkzeug        INFO     MainProcess[1905]      _log: 127.0.0.1 - - [13/Feb/2019 17:06:47] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265/task HTTP/1.1" 404 -
+2019-02-13 17:07:10,356 werkzeug        INFO     MainProcess[1905]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 17:07:10,413 werkzeug        INFO     MainProcess[1551]      _log:  * Restarting with stat
+2019-02-13 17:07:10,859 werkzeug        WARNING  MainProcess[1914]      _log:  * Debugger is active!
+2019-02-13 17:07:10,876 werkzeug        INFO     MainProcess[1914]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 17:07:14,968 werkzeug        INFO     MainProcess[1914]      _log: 127.0.0.1 - - [13/Feb/2019 17:07:14] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265/task HTTP/1.1" 404 -
+2019-02-13 17:08:22,963 werkzeug        INFO     MainProcess[1914]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 17:08:23,024 werkzeug        INFO     MainProcess[1551]      _log:  * Restarting with stat
+2019-02-13 17:08:23,485 werkzeug        WARNING  MainProcess[1932]      _log:  * Debugger is active!
+2019-02-13 17:08:23,504 werkzeug        INFO     MainProcess[1932]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 17:08:25,911 werkzeug        INFO     MainProcess[1932]      _log: 127.0.0.1 - - [13/Feb/2019 17:08:25] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265/task HTTP/1.1" 404 -
+2019-02-13 17:08:37,816 werkzeug        INFO     MainProcess[1932]      _log: 127.0.0.1 - - [13/Feb/2019 17:08:37] "GET /task HTTP/1.1" 200 -
+2019-02-13 17:08:45,884 werkzeug        INFO     MainProcess[1932]      _log: 127.0.0.1 - - [13/Feb/2019 17:08:45] "GET /task/?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 404 -
+2019-02-13 17:09:15,397 werkzeug        INFO     MainProcess[1932]      _log: 127.0.0.1 - - [13/Feb/2019 17:09:15] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265/task/ HTTP/1.1" 404 -
+2019-02-13 17:11:42,356 werkzeug        INFO     MainProcess[1932]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 17:11:42,411 werkzeug        INFO     MainProcess[1551]      _log:  * Restarting with stat
+2019-02-13 17:11:42,827 werkzeug        WARNING  MainProcess[1955]      _log:  * Debugger is active!
+2019-02-13 17:11:42,843 werkzeug        INFO     MainProcess[1955]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 17:11:51,320 Hello           INFO     MainProcess[1955]       get: Request arguments {'username': 'mudni', 'contact': '0331-4492265', 'email': 'mudni@gmail.com'}
+2019-02-13 17:11:51,329 werkzeug        INFO     MainProcess[1955]      _log: 127.0.0.1 - - [13/Feb/2019 17:11:51] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:11:58,011 werkzeug        INFO     MainProcess[1955]      _log: 127.0.0.1 - - [13/Feb/2019 17:11:58] "POST /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:12:06,413 Hello           INFO     MainProcess[1955]       get: Request arguments {'username': 'mudni', 'contact': '0331-4492265', 'email': 'mudni@gmail.com'}
+2019-02-13 17:12:06,417 werkzeug        INFO     MainProcess[1955]      _log: 127.0.0.1 - - [13/Feb/2019 17:12:06] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:12:38,279 Hello           INFO     MainProcess[1955]       get: Request arguments {'username': 'mudni', 'contact': '0331-4492265', 'email': 'mudni@gmail.com'}
+2019-02-13 17:12:38,284 werkzeug        INFO     MainProcess[1955]      _log: 127.0.0.1 - - [13/Feb/2019 17:12:38] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:12:40,813 Hello           INFO     MainProcess[1955]       get: Request arguments {'username': 'mudni', 'contact': '0331-4492265', 'email': 'mudni@gmail.com'}
+2019-02-13 17:12:40,818 werkzeug        INFO     MainProcess[1955]      _log: 127.0.0.1 - - [13/Feb/2019 17:12:40] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:12:46,826 Hello           INFO     MainProcess[1955]       get: Request arguments {'username': None, 'contact': '0331-4492265', 'email': 'mudni@gmail.com'}
+2019-02-13 17:12:46,829 werkzeug        INFO     MainProcess[1955]      _log: 127.0.0.1 - - [13/Feb/2019 17:12:46] "GET /?email=mudni@gmail.com&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:13:01,862 Hello           INFO     MainProcess[1955]       get: Request arguments {'username': 'mudni', 'contact': '0331-4492265', 'email': 'mudni@gmail.com'}
+2019-02-13 17:13:01,866 werkzeug        INFO     MainProcess[1955]      _log: 127.0.0.1 - - [13/Feb/2019 17:13:01] "GET /?username=mudni&email=mudni@gmail.com&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:13:07,511 Hello           INFO     MainProcess[1955]       get: Request arguments {'username': 'mudni', 'contact': None, 'email': None}
+2019-02-13 17:13:07,516 werkzeug        INFO     MainProcess[1955]      _log: 127.0.0.1 - - [13/Feb/2019 17:13:07] "GET /?username=mudni HTTP/1.1" 200 -
+2019-02-13 17:13:32,202 Hello           INFO     MainProcess[1955]       get: Request arguments {'username': 'mudni', 'contact': '0331-4492265', 'email': None}
+2019-02-13 17:13:32,207 werkzeug        INFO     MainProcess[1955]      _log: 127.0.0.1 - - [13/Feb/2019 17:13:32] "GET /?username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:15:57,460 werkzeug        INFO     MainProcess[1955]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 17:15:57,519 werkzeug        INFO     MainProcess[1551]      _log:  * Restarting with stat
+2019-02-13 17:15:57,987 werkzeug        WARNING  MainProcess[2006]      _log:  * Debugger is active!
+2019-02-13 17:15:58,005 werkzeug        INFO     MainProcess[2006]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 17:16:05,635 Hello           INFO     MainProcess[2006]       get: Request arguments {'contact': '0331-4492265', 'username': 'mudni', 'email': None}
+2019-02-13 17:16:05,646 werkzeug        INFO     MainProcess[2006]      _log: 127.0.0.1 - - [13/Feb/2019 17:16:05] "GET /?username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:16:20,181 Hello           INFO     MainProcess[2006]       get: Request arguments {'contact': None, 'username': 'mudni', 'email': None}
+2019-02-13 17:16:20,187 werkzeug        INFO     MainProcess[2006]      _log: 127.0.0.1 - - [13/Feb/2019 17:16:20] "GET /?username=mudni HTTP/1.1" 200 -
+2019-02-13 17:18:23,074 werkzeug        INFO     MainProcess[2006]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 17:18:23,158 werkzeug        INFO     MainProcess[1551]      _log:  * Restarting with stat
+2019-02-13 17:18:23,631 werkzeug        WARNING  MainProcess[2042]      _log:  * Debugger is active!
+2019-02-13 17:18:23,648 werkzeug        INFO     MainProcess[2042]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 17:18:27,281 Hello           INFO     MainProcess[2042]       get: Request arguments {'username': 'mudni', 'contact': None, 'email': None}
+2019-02-13 17:18:27,294 werkzeug        INFO     MainProcess[2042]      _log: 127.0.0.1 - - [13/Feb/2019 17:18:27] "GET /?username=mudni HTTP/1.1" 200 -
+2019-02-13 17:18:49,300 Hello           INFO     MainProcess[2042]       get: Request arguments {'username': 'mudni', 'contact': '0331-4492265', 'email': None}
+2019-02-13 17:18:49,304 werkzeug        INFO     MainProcess[2042]      _log: 127.0.0.1 - - [13/Feb/2019 17:18:49] "GET /?username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:22:59,516 werkzeug        INFO     MainProcess[2042]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 17:22:59,577 werkzeug        INFO     MainProcess[1551]      _log:  * Restarting with stat
+2019-02-13 17:23:00,021 werkzeug        WARNING  MainProcess[2091]      _log:  * Debugger is active!
+2019-02-13 17:23:00,039 werkzeug        INFO     MainProcess[2091]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 17:23:08,427 Hello           INFO     MainProcess[2091]       get: Request arguments {'email': None, 'username': 'mudni', 'contact': '0331-4492265'}
+2019-02-13 17:23:08,437 werkzeug        INFO     MainProcess[2091]      _log: 127.0.0.1 - - [13/Feb/2019 17:23:08] "GET /?username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:23:16,753 Hello           INFO     MainProcess[2091]       get: Request arguments {'email': None, 'username': 'mudni', 'contact': None}
+2019-02-13 17:23:16,759 werkzeug        INFO     MainProcess[2091]      _log: 127.0.0.1 - - [13/Feb/2019 17:23:16] "GET /?username=mudni HTTP/1.1" 200 -
+2019-02-13 17:23:32,788 Hello           INFO     MainProcess[2091]       get: Request arguments {'email': None, 'username': None, 'contact': '0331-4492265'}
+2019-02-13 17:23:32,792 werkzeug        INFO     MainProcess[2091]      _log: 127.0.0.1 - - [13/Feb/2019 17:23:32] "GET /?contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:23:44,286 Hello           INFO     MainProcess[2091]       get: Request arguments {'email': None, 'username': None, 'contact': '0331-4492264'}
+2019-02-13 17:23:44,290 werkzeug        INFO     MainProcess[2091]      _log: 127.0.0.1 - - [13/Feb/2019 17:23:44] "GET /?contact=0331-4492264 HTTP/1.1" 200 -
+2019-02-13 17:24:13,936 Hello           INFO     MainProcess[2091]       get: Request arguments {'email': 'mudni@gmail.com', 'username': None, 'contact': '0331-4492264'}
+2019-02-13 17:24:13,940 werkzeug        INFO     MainProcess[2091]      _log: 127.0.0.1 - - [13/Feb/2019 17:24:13] "GET /?contact=0331-4492264&email=mudni@gmail.com HTTP/1.1" 200 -
+2019-02-13 17:24:25,796 werkzeug        INFO     MainProcess[2091]      _log: 127.0.0.1 - - [13/Feb/2019 17:24:25] "GET / HTTP/1.1" 200 -
+2019-02-13 17:26:53,390 werkzeug        INFO     MainProcess[2091]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 17:26:53,444 werkzeug        INFO     MainProcess[1551]      _log:  * Restarting with stat
+2019-02-13 17:30:38,780 werkzeug        INFO     MainProcess[2187]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 17:30:38,782 werkzeug        INFO     MainProcess[2187]      _log:  * Restarting with stat
+2019-02-13 17:30:39,274 werkzeug        WARNING  MainProcess[2189]      _log:  * Debugger is active!
+2019-02-13 17:30:39,294 werkzeug        INFO     MainProcess[2189]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 17:30:41,875 Hello           INFO     MainProcess[2189]       get: Request arguments {'contact': None, 'username': None, 'email': None}
+2019-02-13 17:30:41,883 werkzeug        INFO     MainProcess[2189]      _log: 127.0.0.1 - - [13/Feb/2019 17:30:41] "GET / HTTP/1.1" 200 -
+2019-02-13 17:30:55,835 Hello           INFO     MainProcess[2189]       get: Request arguments {'contact': '0331-4492264', 'username': 'mudni', 'email': 'mudni@gmail.com'}
+2019-02-13 17:30:55,840 werkzeug        INFO     MainProcess[2189]      _log: 127.0.0.1 - - [13/Feb/2019 17:30:55] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492264 HTTP/1.1" 200 -
+2019-02-13 17:31:03,112 Hello           INFO     MainProcess[2189]       get: Request arguments {'contact': None, 'username': 'mudni', 'email': 'mudni@gmail.com'}
+2019-02-13 17:31:03,116 werkzeug        INFO     MainProcess[2189]      _log: 127.0.0.1 - - [13/Feb/2019 17:31:03] "GET /?email=mudni@gmail.com&username=mudni HTTP/1.1" 200 -
+2019-02-13 17:31:16,871 Hello           INFO     MainProcess[2189]       get: Request arguments {'contact': None, 'username': None, 'email': 'mudni@gmail.com'}
+2019-02-13 17:31:16,876 werkzeug        INFO     MainProcess[2189]      _log: 127.0.0.1 - - [13/Feb/2019 17:31:16] "GET /?email=mudni@gmail.com HTTP/1.1" 200 -
+2019-02-13 17:31:41,578 Hello           INFO     MainProcess[2189]       get: Request arguments {'contact': None, 'username': None, 'email': None}
+2019-02-13 17:31:41,584 werkzeug        INFO     MainProcess[2189]      _log: 127.0.0.1 - - [13/Feb/2019 17:31:41] "GET /?contact:%200331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:31:58,944 Hello           INFO     MainProcess[2189]       get: Request arguments {'contact': '0331-4492265', 'username': None, 'email': None}
+2019-02-13 17:31:58,948 werkzeug        INFO     MainProcess[2189]      _log: 127.0.0.1 - - [13/Feb/2019 17:31:58] "GET /?contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:32:07,152 Hello           INFO     MainProcess[2189]       get: Request arguments {'contact': '0331-449226', 'username': None, 'email': None}
+2019-02-13 17:32:07,156 werkzeug        INFO     MainProcess[2189]      _log: 127.0.0.1 - - [13/Feb/2019 17:32:07] "GET /?contact=0331-449226 HTTP/1.1" 200 -
+2019-02-13 17:32:52,054 werkzeug        INFO     MainProcess[2189]      _log: 127.0.0.1 - - [13/Feb/2019 17:32:52] "POST /?contact=0331-449226 HTTP/1.1" 200 -
+2019-02-13 17:33:06,730 werkzeug        INFO     MainProcess[2189]      _log: 127.0.0.1 - - [13/Feb/2019 17:33:06] "POST /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:39:02,411 werkzeug        INFO     MainProcess[2189]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 17:39:02,464 werkzeug        INFO     MainProcess[2187]      _log:  * Restarting with stat
+2019-02-13 17:39:02,897 werkzeug        WARNING  MainProcess[2254]      _log:  * Debugger is active!
+2019-02-13 17:39:02,915 werkzeug        INFO     MainProcess[2254]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 17:51:01,007 werkzeug        INFO     MainProcess[2254]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 17:51:01,013 werkzeug        INFO     MainProcess[2187]      _log:  * Restarting with stat
+2019-02-13 17:51:01,451 werkzeug        WARNING  MainProcess[2331]      _log:  * Debugger is active!
+2019-02-13 17:51:01,467 werkzeug        INFO     MainProcess[2331]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 17:55:07,616 werkzeug        INFO     MainProcess[2331]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 17:55:07,667 werkzeug        INFO     MainProcess[2187]      _log:  * Restarting with stat
+2019-02-13 17:55:08,124 werkzeug        WARNING  MainProcess[2356]      _log:  * Debugger is active!
+2019-02-13 17:55:08,147 werkzeug        INFO     MainProcess[2356]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 17:55:16,786 werkzeug        INFO     MainProcess[2356]      _log: 127.0.0.1 - - [13/Feb/2019 17:55:16] "PUT /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:55:32,939 werkzeug        INFO     MainProcess[2356]      _log: 127.0.0.1 - - [13/Feb/2019 17:55:32] "PUT /?email=mudni@gmail.com HTTP/1.1" 200 -
+2019-02-13 17:55:54,996 Hello           INFO     MainProcess[2356]       get: Request arguments {'email': 'mudni@gmail.com', 'username_update': None, 'email_update': None, 'contact_update': None, 'contact': '0331-4492265', 'username': 'mudni'}
+2019-02-13 17:55:54,999 werkzeug        INFO     MainProcess[2356]      _log: 127.0.0.1 - - [13/Feb/2019 17:55:54] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:58:32,067 werkzeug        INFO     MainProcess[2356]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 17:58:32,148 werkzeug        INFO     MainProcess[2187]      _log:  * Restarting with stat
+2019-02-13 17:58:32,661 werkzeug        WARNING  MainProcess[2402]      _log:  * Debugger is active!
+2019-02-13 17:58:32,681 werkzeug        INFO     MainProcess[2402]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 17:58:36,201 Hello           INFO     MainProcess[2402]       get: Request arguments {'email_update': None, 'username': 'mudni', 'contact_update': None, 'email': 'mudni@gmail.com', 'contact': '0331-4492265', 'username_update': None}
+2019-02-13 17:58:36,210 werkzeug        INFO     MainProcess[2402]      _log: 127.0.0.1 - - [13/Feb/2019 17:58:36] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:58:40,461 werkzeug        INFO     MainProcess[2402]      _log: 127.0.0.1 - - [13/Feb/2019 17:58:40] "PUT /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 17:59:34,589 werkzeug        INFO     MainProcess[2402]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 17:59:34,646 werkzeug        INFO     MainProcess[2187]      _log:  * Restarting with stat
+2019-02-13 17:59:35,152 werkzeug        WARNING  MainProcess[2412]      _log:  * Debugger is active!
+2019-02-13 17:59:35,171 werkzeug        INFO     MainProcess[2412]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:02:25,270 werkzeug        INFO     MainProcess[2412]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:02:25,338 werkzeug        INFO     MainProcess[2187]      _log:  * Restarting with stat
+2019-02-13 18:02:25,810 werkzeug        WARNING  MainProcess[2442]      _log:  * Debugger is active!
+2019-02-13 18:02:25,833 werkzeug        INFO     MainProcess[2442]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:14:17,810 Hello           INFO     MainProcess[2442]       get: Request arguments {'username_update': None, 'contact_update': None, 'contact': '0331-4492265', 'username': 'mudni', 'email': 'mudni@gmail.com', 'email_update': None}
+2019-02-13 18:14:17,815 werkzeug        INFO     MainProcess[2442]      _log: 127.0.0.1 - - [13/Feb/2019 18:14:17] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 18:14:22,968 Hello           INFO     MainProcess[2442]       get: Request arguments {'username_update': None, 'contact_update': None, 'contact': None, 'username': None, 'email': None, 'email_update': None}
+2019-02-13 18:14:22,971 werkzeug        INFO     MainProcess[2442]      _log: 127.0.0.1 - - [13/Feb/2019 18:14:22] "GET / HTTP/1.1" 200 -
+2019-02-13 18:15:12,981 Hello           INFO     MainProcess[2442]       get: Request arguments {'username_update': None, 'contact_update': None, 'contact': None, 'username': None, 'email': None, 'email_update': None}
+2019-02-13 18:15:12,984 werkzeug        INFO     MainProcess[2442]      _log: 127.0.0.1 - - [13/Feb/2019 18:15:12] "GET / HTTP/1.1" 200 -
+2019-02-13 18:16:02,845 Hello           INFO     MainProcess[2442]       get: Request arguments {'username_update': None, 'contact_update': None, 'contact': None, 'username': None, 'email': None, 'email_update': None}
+2019-02-13 18:16:02,849 werkzeug        INFO     MainProcess[2442]      _log: 127.0.0.1 - - [13/Feb/2019 18:16:02] "GET / HTTP/1.1" 200 -
+2019-02-13 18:16:29,748 Hello           INFO     MainProcess[2442]       get: Request arguments {'username_update': None, 'contact_update': None, 'contact': None, 'username': None, 'email': None, 'email_update': None}
+2019-02-13 18:16:29,751 werkzeug        INFO     MainProcess[2442]      _log: 127.0.0.1 - - [13/Feb/2019 18:16:29] "GET / HTTP/1.1" 200 -
+2019-02-13 18:18:03,025 werkzeug        INFO     MainProcess[2442]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:18:03,079 werkzeug        INFO     MainProcess[2187]      _log:  * Restarting with stat
+2019-02-13 18:25:08,309 werkzeug        INFO     MainProcess[2771]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 18:25:08,310 werkzeug        INFO     MainProcess[2771]      _log:  * Restarting with stat
+2019-02-13 18:25:08,728 werkzeug        WARNING  MainProcess[2772]      _log:  * Debugger is active!
+2019-02-13 18:25:08,744 werkzeug        INFO     MainProcess[2772]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:25:12,173 Hello           INFO     MainProcess[2772]       get: Request arguments {'username': 'mudni', 'username_update': None, 'email_update': None, 'contact': '0331-4492265', 'contact_update': None, 'email': 'mudni@gmail.com'}
+2019-02-13 18:25:12,180 werkzeug        INFO     MainProcess[2772]      _log: 127.0.0.1 - - [13/Feb/2019 18:25:12] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 18:25:29,280 Hello           INFO     MainProcess[2772]       get: Request arguments {'username': None, 'username_update': None, 'email_update': None, 'contact': None, 'contact_update': None, 'email': None}
+2019-02-13 18:25:29,285 werkzeug        INFO     MainProcess[2772]      _log: 127.0.0.1 - - [13/Feb/2019 18:25:29] "GET / HTTP/1.1" 200 -
+2019-02-13 18:25:46,363 Hello           INFO     MainProcess[2772]       get: Request arguments {'username': 'mudni', 'username_update': None, 'email_update': None, 'contact': '0331-4492265', 'contact_update': None, 'email': 'mudni@gmail.com'}
+2019-02-13 18:25:46,368 werkzeug        INFO     MainProcess[2772]      _log: 127.0.0.1 - - [13/Feb/2019 18:25:46] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 18:26:22,362 werkzeug        INFO     MainProcess[2772]      _log: 127.0.0.1 - - [13/Feb/2019 18:26:22] "PUT /?email=mudni@gmail.com&username=mudni&contact=0331-4492265&contact_update=0331-4492267 HTTP/1.1" 200 -
+2019-02-13 18:26:44,515 werkzeug        INFO     MainProcess[2772]      _log: 127.0.0.1 - - [13/Feb/2019 18:26:44] "PUT /?contact_update=0331-4492267 HTTP/1.1" 200 -
+2019-02-13 18:26:55,822 werkzeug        INFO     MainProcess[2772]      _log: 127.0.0.1 - - [13/Feb/2019 18:26:55] "PUT / HTTP/1.1" 200 -
+2019-02-13 18:27:00,409 Hello           INFO     MainProcess[2772]       get: Request arguments {'username': None, 'username_update': None, 'email_update': None, 'contact': None, 'contact_update': None, 'email': None}
+2019-02-13 18:27:00,414 werkzeug        INFO     MainProcess[2772]      _log: 127.0.0.1 - - [13/Feb/2019 18:27:00] "GET / HTTP/1.1" 200 -
+2019-02-13 18:27:47,991 werkzeug        INFO     MainProcess[2772]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:27:48,052 werkzeug        INFO     MainProcess[2771]      _log:  * Restarting with stat
+2019-02-13 18:27:48,553 werkzeug        WARNING  MainProcess[2796]      _log:  * Debugger is active!
+2019-02-13 18:27:48,574 werkzeug        INFO     MainProcess[2796]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:28:07,236 werkzeug        INFO     MainProcess[2796]      _log: 127.0.0.1 - - [13/Feb/2019 18:28:07] "PUT /?email=mudni@gmail.com&username=mudni&contact=0331-4492265&contact_update=0331-4492267 HTTP/1.1" 500 -
+2019-02-13 18:28:45,411 werkzeug        INFO     MainProcess[2796]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:28:45,467 werkzeug        INFO     MainProcess[2771]      _log:  * Restarting with stat
+2019-02-13 18:28:45,903 werkzeug        WARNING  MainProcess[2805]      _log:  * Debugger is active!
+2019-02-13 18:28:45,920 werkzeug        INFO     MainProcess[2805]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:30:16,206 werkzeug        INFO     MainProcess[2805]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:30:16,262 werkzeug        INFO     MainProcess[2771]      _log:  * Restarting with stat
+2019-02-13 18:30:16,696 werkzeug        WARNING  MainProcess[2827]      _log:  * Debugger is active!
+2019-02-13 18:30:16,714 werkzeug        INFO     MainProcess[2827]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:30:20,236 werkzeug        INFO     MainProcess[2827]      _log: 127.0.0.1 - - [13/Feb/2019 18:30:20] "PUT /?email=mudni@gmail.com&username=mudni&contact=0331-4492265&contact_update=0331-4492267 HTTP/1.1" 200 -
+2019-02-13 18:30:41,522 Hello           INFO     MainProcess[2827]       get: Request arguments {'email_update': None, 'contact_update': None, 'username': None, 'username_update': None, 'contact': None, 'email': None}
+2019-02-13 18:30:41,525 werkzeug        INFO     MainProcess[2827]      _log: 127.0.0.1 - - [13/Feb/2019 18:30:41] "GET / HTTP/1.1" 200 -
+2019-02-13 18:31:22,683 werkzeug        INFO     MainProcess[2827]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:31:22,749 werkzeug        INFO     MainProcess[2771]      _log:  * Restarting with stat
+2019-02-13 18:31:23,241 werkzeug        WARNING  MainProcess[2844]      _log:  * Debugger is active!
+2019-02-13 18:31:23,257 werkzeug        INFO     MainProcess[2844]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:31:55,748 werkzeug        INFO     MainProcess[2844]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:31:55,803 werkzeug        INFO     MainProcess[2771]      _log:  * Restarting with stat
+2019-02-13 18:31:56,220 werkzeug        WARNING  MainProcess[2856]      _log:  * Debugger is active!
+2019-02-13 18:31:56,237 werkzeug        INFO     MainProcess[2856]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:32:56,126 werkzeug        INFO     MainProcess[2856]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:32:56,181 werkzeug        INFO     MainProcess[2771]      _log:  * Restarting with stat
+2019-02-13 18:32:56,646 werkzeug        WARNING  MainProcess[2879]      _log:  * Debugger is active!
+2019-02-13 18:32:56,667 werkzeug        INFO     MainProcess[2879]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:33:22,023 werkzeug        INFO     MainProcess[2879]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:33:22,077 werkzeug        INFO     MainProcess[2771]      _log:  * Restarting with stat
+2019-02-13 18:33:22,518 werkzeug        WARNING  MainProcess[2889]      _log:  * Debugger is active!
+2019-02-13 18:33:22,536 werkzeug        INFO     MainProcess[2889]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:33:31,266 werkzeug        INFO     MainProcess[2893]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 18:33:31,268 werkzeug        INFO     MainProcess[2893]      _log:  * Restarting with stat
+2019-02-13 18:33:31,690 werkzeug        WARNING  MainProcess[2894]      _log:  * Debugger is active!
+2019-02-13 18:33:31,708 werkzeug        INFO     MainProcess[2894]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:33:58,323 werkzeug        INFO     MainProcess[2894]      _log: 127.0.0.1 - - [13/Feb/2019 18:33:58] "PUT /?email=mudni@gmail.com&username=mudni&contact=0331-4492265&contact_update=0331-4492267 HTTP/1.1" 500 -
+2019-02-13 18:36:29,198 werkzeug        INFO     MainProcess[2894]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:36:29,249 werkzeug        INFO     MainProcess[2893]      _log:  * Restarting with stat
+2019-02-13 18:36:29,713 werkzeug        WARNING  MainProcess[2926]      _log:  * Debugger is active!
+2019-02-13 18:36:29,733 werkzeug        INFO     MainProcess[2926]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:36:32,219 werkzeug        INFO     MainProcess[2926]      _log: 127.0.0.1 - - [13/Feb/2019 18:36:32] "PUT /?email=mudni@gmail.com&username=mudni&contact=0331-4492265&contact_update=0331-4492267 HTTP/1.1" 500 -
+2019-02-13 18:37:10,307 werkzeug        INFO     MainProcess[2926]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:37:10,362 werkzeug        INFO     MainProcess[2893]      _log:  * Restarting with stat
+2019-02-13 18:37:10,790 werkzeug        WARNING  MainProcess[2937]      _log:  * Debugger is active!
+2019-02-13 18:37:10,808 werkzeug        INFO     MainProcess[2937]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:37:25,052 werkzeug        INFO     MainProcess[2937]      _log: 127.0.0.1 - - [13/Feb/2019 18:37:25] "PUT /?email=mudni@gmail.com&username=mudni&contact=0331-4492265&contact_update=0331-4492267 HTTP/1.1" 500 -
+2019-02-13 18:39:18,738 werkzeug        INFO     MainProcess[2937]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:39:18,792 werkzeug        INFO     MainProcess[2893]      _log:  * Restarting with stat
+2019-02-13 18:39:19,214 werkzeug        WARNING  MainProcess[2969]      _log:  * Debugger is active!
+2019-02-13 18:39:19,231 werkzeug        INFO     MainProcess[2969]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:39:20,255 werkzeug        INFO     MainProcess[2969]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:39:20,329 werkzeug        INFO     MainProcess[2893]      _log:  * Restarting with stat
+2019-02-13 18:39:20,803 werkzeug        WARNING  MainProcess[2972]      _log:  * Debugger is active!
+2019-02-13 18:39:20,828 werkzeug        INFO     MainProcess[2972]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:39:26,469 werkzeug        INFO     MainProcess[2977]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 18:39:26,470 werkzeug        INFO     MainProcess[2977]      _log:  * Restarting with stat
+2019-02-13 18:39:26,886 werkzeug        WARNING  MainProcess[2978]      _log:  * Debugger is active!
+2019-02-13 18:39:26,904 werkzeug        INFO     MainProcess[2978]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:39:30,999 werkzeug        INFO     MainProcess[2978]      _log: 127.0.0.1 - - [13/Feb/2019 18:39:30] "PUT /?email=mudni@gmail.com&username=mudni&contact=0331-4492265&contact_update=0331-4492267 HTTP/1.1" 500 -
+2019-02-13 18:40:51,157 werkzeug        INFO     MainProcess[2978]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:40:51,213 werkzeug        INFO     MainProcess[2977]      _log:  * Restarting with stat
+2019-02-13 18:40:51,639 werkzeug        WARNING  MainProcess[2999]      _log:  * Debugger is active!
+2019-02-13 18:40:51,656 werkzeug        INFO     MainProcess[2999]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:40:57,050 werkzeug        INFO     MainProcess[2999]      _log: 127.0.0.1 - - [13/Feb/2019 18:40:57] "PUT /?email=mudni@gmail.com&username=mudni&contact=0331-4492265&contact_update=0331-4492267 HTTP/1.1" 500 -
+2019-02-13 18:42:39,199 werkzeug        INFO     MainProcess[2999]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:42:39,275 werkzeug        INFO     MainProcess[2977]      _log:  * Restarting with stat
+2019-02-13 18:42:39,736 werkzeug        WARNING  MainProcess[3025]      _log:  * Debugger is active!
+2019-02-13 18:42:39,756 werkzeug        INFO     MainProcess[3025]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:44:22,249 werkzeug        INFO     MainProcess[3025]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:44:22,304 werkzeug        INFO     MainProcess[2977]      _log:  * Restarting with stat
+2019-02-13 18:44:22,726 werkzeug        WARNING  MainProcess[3048]      _log:  * Debugger is active!
+2019-02-13 18:44:22,744 werkzeug        INFO     MainProcess[3048]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:44:28,113 werkzeug        INFO     MainProcess[3048]      _log: 127.0.0.1 - - [13/Feb/2019 18:44:28] "PUT /?email=mudni@gmail.com&username=mudni&contact=0331-4492265&contact_update=0331-4492267 HTTP/1.1" 200 -
+2019-02-13 18:44:40,698 werkzeug        INFO     MainProcess[3048]      _log: 127.0.0.1 - - [13/Feb/2019 18:44:40] "PUT / HTTP/1.1" 200 -
+2019-02-13 18:44:47,377 Hello           INFO     MainProcess[3048]       get: Request arguments {'username': None, 'contact_update': None, 'email': None, 'username_update': None, 'contact': None, 'email_update': None}
+2019-02-13 18:44:47,381 werkzeug        INFO     MainProcess[3048]      _log: 127.0.0.1 - - [13/Feb/2019 18:44:47] "GET / HTTP/1.1" 200 -
+2019-02-13 18:45:16,930 werkzeug        INFO     MainProcess[3048]      _log: 127.0.0.1 - - [13/Feb/2019 18:45:16] "PUT /?email=mudni@gmail.com&username=mudni&contact=0331-4492265&contact_update=0331-4492267 HTTP/1.1" 200 -
+2019-02-13 18:45:35,000 werkzeug        INFO     MainProcess[3048]      _log: 127.0.0.1 - - [13/Feb/2019 18:45:35] "PUT /?email=mudni@gmail.com&username=mudni&contact=0331-4492267&contact_update=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 18:45:49,277 Hello           INFO     MainProcess[3048]       get: Request arguments {'username': 'mudni', 'contact_update': '0331-4492265', 'email': 'mudni@gmail.com', 'username_update': None, 'contact': '0331-4492267', 'email_update': None}
+2019-02-13 18:45:49,281 werkzeug        INFO     MainProcess[3048]      _log: 127.0.0.1 - - [13/Feb/2019 18:45:49] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492267&contact_update=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 18:46:00,820 Hello           INFO     MainProcess[3048]       get: Request arguments {'username': 'mudni', 'contact_update': '0331-4492265', 'email': 'mudni@gmail.com', 'username_update': None, 'contact': '0331-4492265', 'email_update': None}
+2019-02-13 18:46:00,825 werkzeug        INFO     MainProcess[3048]      _log: 127.0.0.1 - - [13/Feb/2019 18:46:00] "GET /?email=mudni@gmail.com&username=mudni&contact=0331-4492265&contact_update=0331-4492265 HTTP/1.1" 200 -
+2019-02-13 18:46:16,054 Hello           INFO     MainProcess[3048]       get: Request arguments {'username': None, 'contact_update': None, 'email': None, 'username_update': None, 'contact': None, 'email_update': None}
+2019-02-13 18:46:16,058 werkzeug        INFO     MainProcess[3048]      _log: 127.0.0.1 - - [13/Feb/2019 18:46:16] "GET / HTTP/1.1" 200 -
+2019-02-13 18:49:09,794 werkzeug        INFO     MainProcess[3048]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:49:09,855 werkzeug        INFO     MainProcess[2977]      _log:  * Restarting with stat
+2019-02-13 18:49:10,314 werkzeug        WARNING  MainProcess[3084]      _log:  * Debugger is active!
+2019-02-13 18:49:10,333 werkzeug        INFO     MainProcess[3084]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:51:02,932 werkzeug        INFO     MainProcess[3084]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/__init__.py', reloading
+2019-02-13 18:51:02,989 werkzeug        INFO     MainProcess[2977]      _log:  * Restarting with stat
+2019-02-13 18:51:03,472 werkzeug        WARNING  MainProcess[3102]      _log:  * Debugger is active!
+2019-02-13 18:51:03,491 werkzeug        INFO     MainProcess[3102]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:55:03,938 werkzeug        INFO     MainProcess[3102]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:55:04,020 werkzeug        INFO     MainProcess[2977]      _log:  * Restarting with stat
+2019-02-13 18:55:05,276 werkzeug        WARNING  MainProcess[3209]      _log:  * Debugger is active!
+2019-02-13 18:55:05,295 werkzeug        INFO     MainProcess[3209]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:55:36,913 Hello           INFO     MainProcess[3209]       get: Request arguments {'username': None, 'contact_update': None, 'username_update': None, 'email_update': None, 'contact': None, 'email': None}
+2019-02-13 18:55:36,918 werkzeug        INFO     MainProcess[3209]      _log: 127.0.0.1 - - [13/Feb/2019 18:55:36] "GET / HTTP/1.1" 200 -
+2019-02-13 18:56:23,740 werkzeug        INFO     MainProcess[3209]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 18:56:23,862 werkzeug        INFO     MainProcess[2977]      _log:  * Restarting with stat
+2019-02-13 18:56:24,736 werkzeug        WARNING  MainProcess[3227]      _log:  * Debugger is active!
+2019-02-13 18:56:24,762 werkzeug        INFO     MainProcess[3227]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 18:56:28,064 Hello           INFO     MainProcess[3227]       get: Request arguments {'contact_update': None, 'username_update': None, 'email': None, 'email_update': None, 'username': None, 'contact': None}
+2019-02-13 18:56:28,094 werkzeug        INFO     MainProcess[3227]      _log: 127.0.0.1 - - [13/Feb/2019 18:56:28] "GET / HTTP/1.1" 500 -
+2019-02-13 19:00:58,902 werkzeug        INFO     MainProcess[3227]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 19:00:58,990 werkzeug        INFO     MainProcess[2977]      _log:  * Restarting with stat
+2019-02-13 19:03:04,641 werkzeug        INFO     MainProcess[4358]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-13 19:03:04,642 werkzeug        INFO     MainProcess[4358]      _log:  * Restarting with stat
+2019-02-13 19:03:05,095 werkzeug        WARNING  MainProcess[4359]      _log:  * Debugger is active!
+2019-02-13 19:03:05,112 werkzeug        INFO     MainProcess[4359]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 19:03:08,864 Hello           INFO     MainProcess[4359]       get: Request arguments {'contact_update': None, 'contact': None, 'username': None, 'email': None, 'email_update': None, 'username_update': None}
+2019-02-13 19:03:10,263 werkzeug        INFO     MainProcess[4359]      _log: 127.0.0.1 - - [13/Feb/2019 19:03:10] "GET / HTTP/1.1" 500 -
+2019-02-13 19:04:35,593 werkzeug        INFO     MainProcess[4359]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 19:04:35,661 werkzeug        INFO     MainProcess[4358]      _log:  * Restarting with stat
+2019-02-13 19:04:36,208 werkzeug        WARNING  MainProcess[4385]      _log:  * Debugger is active!
+2019-02-13 19:04:36,229 werkzeug        INFO     MainProcess[4385]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 19:04:39,198 Hello           INFO     MainProcess[4385]       get: Request arguments {'username_update': None, 'email_update': None, 'username': None, 'contact': None, 'email': None, 'contact_update': None}
+2019-02-13 19:04:40,619 werkzeug        INFO     MainProcess[4385]      _log: 127.0.0.1 - - [13/Feb/2019 19:04:40] "GET / HTTP/1.1" 500 -
+2019-02-13 19:05:27,345 werkzeug        INFO     MainProcess[4385]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 19:05:27,405 werkzeug        INFO     MainProcess[4358]      _log:  * Restarting with stat
+2019-02-13 19:05:28,077 werkzeug        WARNING  MainProcess[4402]      _log:  * Debugger is active!
+2019-02-13 19:05:28,100 werkzeug        INFO     MainProcess[4402]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 19:05:30,936 Hello           INFO     MainProcess[4402]       get: Request arguments {'username': None, 'contact_update': None, 'username_update': None, 'email': None, 'contact': None, 'email_update': None}
+2019-02-13 19:05:32,372 werkzeug        INFO     MainProcess[4402]      _log: 127.0.0.1 - - [13/Feb/2019 19:05:32] "GET / HTTP/1.1" 500 -
+2019-02-13 19:06:34,359 werkzeug        INFO     MainProcess[4402]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 19:06:34,417 werkzeug        INFO     MainProcess[4358]      _log:  * Restarting with stat
+2019-02-13 19:06:34,858 werkzeug        WARNING  MainProcess[4415]      _log:  * Debugger is active!
+2019-02-13 19:06:34,879 werkzeug        INFO     MainProcess[4415]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 19:06:37,904 Hello           INFO     MainProcess[4415]       get: Request arguments {'email_update': None, 'contact_update': None, 'email': None, 'contact': None, 'username_update': None, 'username': None}
+2019-02-13 19:06:39,362 werkzeug        INFO     MainProcess[4415]      _log: 127.0.0.1 - - [13/Feb/2019 19:06:39] "GET / HTTP/1.1" 500 -
+2019-02-13 19:07:02,770 werkzeug        INFO     MainProcess[4415]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 19:07:02,832 werkzeug        INFO     MainProcess[4358]      _log:  * Restarting with stat
+2019-02-13 19:07:03,359 werkzeug        WARNING  MainProcess[4427]      _log:  * Debugger is active!
+2019-02-13 19:07:03,378 werkzeug        INFO     MainProcess[4427]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 19:07:05,520 Hello           INFO     MainProcess[4427]       get: Request arguments {'contact': None, 'email_update': None, 'username_update': None, 'contact_update': None, 'email': None, 'username': None}
+2019-02-13 19:07:06,861 werkzeug        INFO     MainProcess[4427]      _log: 127.0.0.1 - - [13/Feb/2019 19:07:06] "GET / HTTP/1.1" 200 -
+2019-02-13 19:07:22,115 werkzeug        INFO     MainProcess[4427]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 19:07:22,177 werkzeug        INFO     MainProcess[4358]      _log:  * Restarting with stat
+2019-02-13 19:07:22,673 werkzeug        WARNING  MainProcess[4435]      _log:  * Debugger is active!
+2019-02-13 19:07:22,699 werkzeug        INFO     MainProcess[4435]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 19:07:24,272 Hello           INFO     MainProcess[4435]       get: Request arguments {'contact': None, 'username_update': None, 'email': None, 'email_update': None, 'username': None, 'contact_update': None}
+2019-02-13 19:07:25,671 werkzeug        INFO     MainProcess[4435]      _log: 127.0.0.1 - - [13/Feb/2019 19:07:25] "GET / HTTP/1.1" 200 -
+2019-02-13 19:07:54,099 werkzeug        INFO     MainProcess[4435]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 19:07:54,157 werkzeug        INFO     MainProcess[4358]      _log:  * Restarting with stat
+2019-02-13 19:07:54,621 werkzeug        WARNING  MainProcess[4442]      _log:  * Debugger is active!
+2019-02-13 19:07:54,638 werkzeug        INFO     MainProcess[4442]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 19:07:56,779 Hello           INFO     MainProcess[4442]       get: Request arguments {'username_update': None, 'email_update': None, 'contact_update': None, 'username': None, 'contact': None, 'email': None}
+2019-02-13 19:07:58,180 werkzeug        INFO     MainProcess[4442]      _log: 127.0.0.1 - - [13/Feb/2019 19:07:58] "GET / HTTP/1.1" 500 -
+2019-02-13 19:08:11,413 werkzeug        INFO     MainProcess[4442]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-13 19:08:11,478 werkzeug        INFO     MainProcess[4358]      _log:  * Restarting with stat
+2019-02-13 19:08:11,970 werkzeug        WARNING  MainProcess[4448]      _log:  * Debugger is active!
+2019-02-13 19:08:11,990 werkzeug        INFO     MainProcess[4448]      _log:  * Debugger PIN: 189-131-962
+2019-02-13 19:08:14,812 Hello           INFO     MainProcess[4448]       get: Request arguments {'username_update': None, 'contact': None, 'email': None, 'email_update': None, 'username': None, 'contact_update': None}
+2019-02-13 19:08:16,174 werkzeug        INFO     MainProcess[4448]      _log: 127.0.0.1 - - [13/Feb/2019 19:08:16] "GET / HTTP/1.1" 200 -
+2019-02-14 12:38:49,140 werkzeug        INFO     MainProcess[790]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-14 12:38:49,161 werkzeug        INFO     MainProcess[790]      _log:  * Restarting with stat
+2019-02-14 12:38:49,598 werkzeug        WARNING  MainProcess[793]      _log:  * Debugger is active!
+2019-02-14 12:38:49,650 werkzeug        INFO     MainProcess[793]      _log:  * Debugger PIN: 189-131-962
+2019-02-14 12:40:05,100 Hello           INFO     MainProcess[793]       get: Request arguments {'contact_update': None, 'email': None, 'email_update': None, 'username': None, 'username_update': None, 'contact': None}
+2019-02-14 12:40:05,204 werkzeug        INFO     MainProcess[793]      _log: 127.0.0.1 - - [14/Feb/2019 12:40:05] "GET / HTTP/1.1" 500 -
+2019-02-14 12:40:24,105 werkzeug        INFO     MainProcess[793]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-14 12:40:24,171 werkzeug        INFO     MainProcess[790]      _log:  * Restarting with stat
+2019-02-14 12:40:24,660 werkzeug        WARNING  MainProcess[817]      _log:  * Debugger is active!
+2019-02-14 12:40:24,676 werkzeug        INFO     MainProcess[817]      _log:  * Debugger PIN: 189-131-962
+2019-02-14 12:40:27,051 Hello           INFO     MainProcess[817]       get: Request arguments {'contact_update': None, 'contact': None, 'username_update': None, 'email_update': None, 'username': None, 'email': None}
+2019-02-14 12:40:28,643 werkzeug        INFO     MainProcess[817]      _log: 127.0.0.1 - - [14/Feb/2019 12:40:28] "GET / HTTP/1.1" 500 -
+2019-02-14 12:40:40,671 werkzeug        INFO     MainProcess[817]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-14 12:40:40,729 werkzeug        INFO     MainProcess[790]      _log:  * Restarting with stat
+2019-02-14 12:40:41,197 werkzeug        WARNING  MainProcess[823]      _log:  * Debugger is active!
+2019-02-14 12:40:41,213 werkzeug        INFO     MainProcess[823]      _log:  * Debugger PIN: 189-131-962
+2019-02-14 12:40:42,340 Hello           INFO     MainProcess[823]       get: Request arguments {'username_update': None, 'username': None, 'contact': None, 'email_update': None, 'email': None, 'contact_update': None}
+2019-02-14 12:40:43,775 werkzeug        INFO     MainProcess[823]      _log: 127.0.0.1 - - [14/Feb/2019 12:40:43] "GET / HTTP/1.1" 200 -
+2019-02-14 12:41:26,460 werkzeug        INFO     MainProcess[823]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-14 12:41:26,518 werkzeug        INFO     MainProcess[790]      _log:  * Restarting with stat
+2019-02-14 12:41:26,991 werkzeug        WARNING  MainProcess[834]      _log:  * Debugger is active!
+2019-02-14 12:41:27,020 werkzeug        INFO     MainProcess[834]      _log:  * Debugger PIN: 189-131-962
+2019-02-14 12:41:48,108 Hello           INFO     MainProcess[834]       get: Request arguments {'contact': None, 'email': 'mud@gmail.com', 'username': None, 'contact_update': None, 'username_update': None, 'email_update': None}
+2019-02-14 12:41:49,567 werkzeug        INFO     MainProcess[834]      _log: 127.0.0.1 - - [14/Feb/2019 12:41:49] "GET /?email=mud@gmail.com HTTP/1.1" 200 -
+2019-02-14 12:45:58,517 werkzeug        INFO     MainProcess[834]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-14 12:45:58,575 werkzeug        INFO     MainProcess[790]      _log:  * Restarting with stat
+2019-02-14 12:45:59,054 werkzeug        WARNING  MainProcess[904]      _log:  * Debugger is active!
+2019-02-14 12:45:59,072 werkzeug        INFO     MainProcess[904]      _log:  * Debugger PIN: 189-131-962
+2019-02-14 12:46:10,623 werkzeug        INFO     MainProcess[904]      _log: 127.0.0.1 - - [14/Feb/2019 12:46:10] "POST /?email=mud@gmail.com HTTP/1.1" 200 -
+2019-02-14 12:49:36,774 werkzeug        INFO     MainProcess[904]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-14 12:49:36,835 werkzeug        INFO     MainProcess[790]      _log:  * Restarting with stat
+2019-02-14 12:49:37,287 werkzeug        WARNING  MainProcess[945]      _log:  * Debugger is active!
+2019-02-14 12:49:37,304 werkzeug        INFO     MainProcess[945]      _log:  * Debugger PIN: 189-131-962
+2019-02-14 12:50:21,955 werkzeug        INFO     MainProcess[945]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-14 12:50:22,012 werkzeug        INFO     MainProcess[790]      _log:  * Restarting with stat
+2019-02-14 12:50:22,444 werkzeug        WARNING  MainProcess[957]      _log:  * Debugger is active!
+2019-02-14 12:50:22,461 werkzeug        INFO     MainProcess[957]      _log:  * Debugger PIN: 189-131-962
+2019-02-14 12:50:30,720 Hello           INFO     MainProcess[957]       get: Request arguments {'username_update': None, 'contact': None, 'contact_update': None, 'email': 'mud@gmail.com', 'email_update': None, 'username': None}
+2019-02-14 12:50:30,723 werkzeug        INFO     MainProcess[957]      _log: 127.0.0.1 - - [14/Feb/2019 12:50:30] "GET /?email=mud@gmail.com HTTP/1.1" 200 -
+2019-02-14 12:57:13,794 werkzeug        INFO     MainProcess[957]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-14 12:57:13,849 werkzeug        INFO     MainProcess[790]      _log:  * Restarting with stat
+2019-02-14 12:57:14,299 werkzeug        WARNING  MainProcess[1032]      _log:  * Debugger is active!
+2019-02-14 12:57:14,315 werkzeug        INFO     MainProcess[1032]      _log:  * Debugger PIN: 189-131-962
+2019-02-14 13:02:27,136 werkzeug        INFO     MainProcess[1032]      _log:  * Detected change in '/Users/ets-python/Python_learning/flaskr/hello.py', reloading
+2019-02-14 13:02:27,206 werkzeug        INFO     MainProcess[790]      _log:  * Restarting with stat
+2019-02-14 13:02:27,673 werkzeug        WARNING  MainProcess[1103]      _log:  * Debugger is active!
+2019-02-14 13:02:27,690 werkzeug        INFO     MainProcess[1103]      _log:  * Debugger PIN: 189-131-962
+2019-02-14 13:02:41,960 Hello           INFO     MainProcess[1103]       get: Request arguments {'email_update': None, 'username_update': None, 'contact': None, 'email': 'mud@gmail.com', 'username': None, 'contact_update': None}
+2019-02-14 13:02:43,376 werkzeug        INFO     MainProcess[1103]      _log: 127.0.0.1 - - [14/Feb/2019 13:02:43] "GET /?email=mud@gmail.com HTTP/1.1" 200 -
+2019-02-14 13:03:14,876 werkzeug        INFO     MainProcess[1103]      _log: 127.0.0.1 - - [14/Feb/2019 13:03:14] "PUT /?email=mud@gmail.com HTTP/1.1" 200 -
+2019-02-14 13:03:54,159 werkzeug        INFO     MainProcess[1103]      _log: 127.0.0.1 - - [14/Feb/2019 13:03:54] "PUT / HTTP/1.1" 200 -
+2019-02-14 13:04:25,564 werkzeug        INFO     MainProcess[1103]      _log: 127.0.0.1 - - [14/Feb/2019 13:04:25] "PUT /?email=mudni@gmail.com&username=mudni&contact=0331-4492265 HTTP/1.1" 200 -
+2019-02-14 13:04:57,897 werkzeug        INFO     MainProcess[1103]      _log: 127.0.0.1 - - [14/Feb/2019 13:04:57] "DELETE / HTTP/1.1" 200 -
+2019-02-14 13:44:31,547 werkzeug        INFO     MainProcess[1600]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-14 13:44:31,548 werkzeug        INFO     MainProcess[1600]      _log:  * Restarting with stat
+2019-02-14 13:44:32,039 werkzeug        WARNING  MainProcess[1601]      _log:  * Debugger is active!
+2019-02-14 13:44:32,061 werkzeug        INFO     MainProcess[1601]      _log:  * Debugger PIN: 189-131-962
+2019-02-14 13:44:41,615 werkzeug        INFO     MainProcess[1608]      _log:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-02-14 13:44:41,618 werkzeug        INFO     MainProcess[1608]      _log:  * Restarting with stat
+2019-02-14 13:44:42,097 werkzeug        WARNING  MainProcess[1609]      _log:  * Debugger is active!
+2019-02-14 13:44:42,116 werkzeug        INFO     MainProcess[1609]      _log:  * Debugger PIN: 189-131-962
+2019-02-14 13:44:46,860 werkzeug        INFO     MainProcess[1609]      _log: 127.0.0.1 - - [14/Feb/2019 13:44:46] "DELETE / HTTP/1.1" 200 -
+2019-02-14 13:44:51,399 Hello           INFO     MainProcess[1609]       get: Request arguments {'contact': None, 'email': None, 'username_update': None, 'contact_update': None, 'username': None, 'email_update': None}
+2019-02-14 13:44:52,883 werkzeug        INFO     MainProcess[1609]      _log: 127.0.0.1 - - [14/Feb/2019 13:44:52] "GET / HTTP/1.1" 200 -
